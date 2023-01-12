@@ -1,0 +1,710 @@
+﻿品牌名称,品牌ID,能源类型,车系名称,车系ID,标签,批发价,报价,官方指导价,是否享受补贴,补贴价,懂车分,车辆照片,dt
+极氪,426,纯电,ZEEKR 001,5015,2023新款,30.00-40.30万,暂无报价,30.00万,FALSE,暂无报价,4.12,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/5ae619a7dcb244778e7dac067784674b~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,海豹,5579,中型轿车销量NO.2,21.28-28.98万,21.28-28.98万,21.28万,TRUE,21.28-28.98万,3.97,http://p1-dcd.byteimg.com/img/motor-img/d7ab3d316e19b29973be27d746df2fa9~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱宏光MINIEV,4499,微型轿车销量NO.1,3.28-9.99万,2.98-3.88万,3.28万,FALSE,暂无报价,3.14,http://p9-dcd.byteimg.com/img/motor-img/6efbde874de291b8176fa27814b9bef3~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Model Y,4363,纯电动销量NO.1,28.89-39.79万,暂无报价,28.89万,FALSE,暂无报价,4.01,http://p1-dcd.byteimg.com/img/motor-img/369ece92bbd1c98470e0b22605b78f31~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,海豚,5008,2023新款,11.68-13.68万,9.68-12.48万,11.68万,FALSE,暂无报价,3.65,http://p1-dcd.byteimg.com/img/motor-img/0ac74e188937a245695428c2db36af92~tplv-resize:640:0.png,2023/1/5
+长安深蓝,515,纯电,长安深蓝SL03,5306,中型轿车销量NO.13,17.19-69.99万,17.98-23.18万,17.19万,FALSE,暂无报价,3.84,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/d4b926b898314e86887526ebdecd437b~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,汉EV,4300,中大型轿车销量NO.2,21.98-33.18万,24.00-28.00万,21.98万,TRUE,21.98-23.98万,4.04,http://p1-dcd.byteimg.com/img/motor-img/230b2b739f8601aa0e4125e6e2f350b0~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Model 3,3762,中型轿车销量NO.7,26.59-34.99万,暂无报价,26.59万,FALSE,暂无报价,4.03,http://p9-dcd.byteimg.com/img/motor-img/2872c9749396000c647cd19ef6aaac54~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,元PLUS,5248,紧凑型SUV销量NO.2,13.98-16.78万,13.28-15.28万,13.98万,TRUE,13.98-16.78万,3.8,http://p1-dcd.byteimg.com/img/motor-img/73eaa859a85ce54d417dfdfc4b1e9f0b~tplv-resize:640:0.png,2023/1/5
+小鹏汽车,195,纯电,小鹏P7,3352,,23.99-28.59万,24.00-37.00万,23.99万,FALSE,暂无报价,4.03,http://p1-dcd.byteimg.com/img/motor-img/5d49eb0e339b5f9a2d2ad0f9ff5f50aa~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,宝马i3,4838,中型轿车销量NO.19,34.99万,暂无报价,34.99万,FALSE,暂无报价,3.96,http://p3-dcd.byteimg.com/img/motor-img/94241ecfc28d879558c1ab99514cafc0~tplv-resize:640:0.png,2023/1/5
+埃安,242,纯电,AION S,3101,新增车型,13.98-19.16万,暂无报价,13.98万,FALSE,暂无报价,3.76,http://p1-dcd.byteimg.com/img/motor-img/7d99d3eef9fba8765615b27ad9825cd7~tplv-resize:640:0.png,2023/1/5
+哪吒汽车,199,纯电,哪吒S,5090,,20.28-34.18万,33.80万,20.28万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/6e68d1a231974405a454fb210bed5485~tplv-resize:640:0.png,2023/1/5
+长安,35,纯电,长安Lumin,5859,微型轿车销量NO.2,4.99-6.99万,暂无报价,4.99万,FALSE,暂无报价,3.3,http://p1-dcd.byteimg.com/img/motor-img/fa1ac73822c3176cc2c8b823e672b974~tplv-resize:640:0.png,2023/1/5
+埃安,242,纯电,AION Y,4814,紧凑型SUV销量NO.5,13.76-18.98万,暂无报价,13.76万,TRUE,13.76-18.98万,3.68,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/07898abe157a44939c84cf5fb4ea3b3c~tplv-resize:640:0.png,2023/1/5
+哪吒汽车,199,纯电,哪吒V,4629,小型SUV销量NO.1,8.39-12.38万,暂无报价,8.39万,FALSE,暂无报价,3.12,http://p1-dcd.byteimg.com/img/motor-img/b1c609f886fde261cd413819766215b7~tplv-resize:640:0.png,2023/1/5
+AITO,483,纯电,问界M5,5343,中型SUV销量NO.12,25.98-33.18万,25.00-32.00万,25.98万,FALSE,暂无报价,3.94,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/6077f0b6028c4876a38bed6d222c7431~tplv-resize:640:0.png,2023/1/5
+保时捷,20,纯电,Taycan,3663,,89.80-183.80万,暂无报价,89.80万,FALSE,暂无报价,4.31,http://p1-dcd.byteimg.com/img/motor-img/65a82e2994543103b5b364a614b1e278~tplv-resize:640:0.png,2023/1/5
+红旗,59,纯电,红旗E-QM5,5092,中型轿车销量NO.17,12.28-20.78万,暂无报价,12.28万,FALSE,暂无报价,3.69,http://p1-dcd.byteimg.com/img/motor-img/3174065ca959cf593465c373c7722041~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来ET5,5409,,32.80-38.60万,暂无报价,32.80万,FALSE,暂无报价,4.03,http://p9-dcd.byteimg.com/img/motor-img/6b3472130dfd56454f65df80d9f461f6~tplv-resize:640:0.png,2023/1/5
+吉利汽车,73,纯电,熊猫mini,6148,全新车系,5.58万,暂无报价,5.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/86064bae18c84d74a9b735fa7f2f1173~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉闪电猫,5053,中型轿车销量NO.20,18.98-26.98万,暂无报价,18.98万,FALSE,暂无报价,3.9,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/1c5fd853d389409db2bb05a358de007a~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,秦PLUS EV,4899,纯电动销量NO.8,14.18-18.08万,暂无报价,14.18万,TRUE,14.18-18.08万,3.6,http://p1-dcd.byteimg.com/img/motor-img/68a3930d446bee29c91048fa02cf7e87~tplv-resize:640:0.png,2023/1/5
+红旗,59,纯电,红旗E-HS9,4146,大型SUV销量NO.2,50.98-77.98万,暂无报价,50.98万,FALSE,暂无报价,4.1,http://p1-dcd.byteimg.com/img/motor-img/fb5c6d20cd6044b28f6eec55dcd6c61c~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,宝马iX3,4538,中型SUV销量NO.16,39.99-43.99万,47.00-51.00万,39.99万,FALSE,暂无报价,4.05,http://p9-dcd.byteimg.com/img/motor-img/6ed2508e2edf0fc8de32cb00897d2271~tplv-resize:640:0.png,2023/1/5
+小鹏汽车,195,纯电,小鹏G9,5461,中大型SUV销量NO.10,30.99-46.99万,暂无报价,30.99万,FALSE,暂无报价,4.06,http://p1-dcd.byteimg.com/img/motor-img/57c7fd76817fb6148dce372c42acc18c~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,宋PLUS EV,4540,纯电动销量NO.16,18.68-20.38万,暂无报价,18.68万,TRUE,18.68-20.38万,3.79,http://p1-dcd.byteimg.com/img/motor-img/04397f3a02b4fdb4ae10cd4687258e9a~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来ET7,3478,中大型轿车销量NO.7,45.80-53.60万,暂无报价,45.80万,FALSE,暂无报价,4.15,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/1af00434fff0460b9c82f8ee34320c9d~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉好猫,4635,小型轿车销量NO.4,12.99-17.10万,暂无报价,12.99万,FALSE,暂无报价,3.64,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/069edf4c33684b6481b68072a744b47d~tplv-resize:640:0.png,2023/1/5
+凯迪拉克,30,纯电,LYRIQ锐歌,5358,中大型SUV销量NO.16,43.97-47.97万,43.97万,43.97万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/5b605a25ad8a418bb3cdadd026658e20~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,唐EV,3077,中型SUV销量NO.18,28.28-34.28万,暂无报价,28.28万,FALSE,暂无报价,3.92,http://p1-dcd.byteimg.com/img/motor-img/f58dc636881f2b9b087128ded04d42c4~tplv-resize:640:0.png,2023/1/5
+福特,7,纯电,福特电马,4890,,24.99-36.99万,暂无报价,24.99万,FALSE,暂无报价,4.03,http://p1-dcd.byteimg.com/img/motor-img/4d6ba7aeed52362922ac58a0b5316957~tplv-resize:640:0.png,2023/1/5
+极氪,426,纯电,ZEEKR 009,5878,,49.90-58.80万,暂无报价,49.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/0d333df1280d4440af8295daff3314ce~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Model S,1254,,89.00-106.00万,暂无报价,89.00万,FALSE,暂无报价,4.13,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/ce1e2fe380294b79b9f652d55386040a~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,大众ID.3,5217,,14.99-18.53万,暂无报价,16.29万,FALSE,暂无报价,3.84,http://p1-dcd.byteimg.com/img/motor-img/28ea7241eb7d6c429c02f566bfb430be~tplv-resize:640:0.png,2023/1/5
+零跑汽车,207,纯电,零跑C11,4731,,18.58-23.98万,暂无报价,18.58万,FALSE,暂无报价,3.83,http://p1-dcd.byteimg.com/img/motor-img/27cf59523211c789cdc05da4019239e4~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪Q4 e-tron,4334,,29.99-37.71万,暂无报价,29.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/f58bacbe8718f00f2e13d249d1e0da05~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来ES8,1616,2023新款,49.60-65.60万,暂无报价,49.60万,TRUE,48.47-64.34万,4.09,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/3ca48627ea6c44d197c8002339e9107a~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,ID.4 CROZZ,4586,,19.39-29.39万,暂无报价,19.39万,FALSE,暂无报价,3.94,http://p1-dcd.byteimg.com/img/motor-img/7e2fd510a9feb583b38a4ae9def165f9~tplv-resize:640:0.png,2023/1/5
+哪吒汽车,199,纯电,哪吒U,3275,,12.38-18.58万,暂无报价,12.38万,TRUE,14.28-17.58万,3.5,http://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/a1d7a3c0d7394709bc0cd788e6c348a3~tplv-resize:640:0.png,2023/1/5
+智己汽车,419,纯电,智己L7,4870,中大型轿车销量NO.15,33.88-57.88万,40.88万,33.88万,FALSE,暂无报价,4.11,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/2b9f5b7572c6425284d7c82243b15016~tplv-resize:640:0.png,2023/1/5
+小鹏汽车,195,纯电,小鹏P5,5004,,17.99-22.59万,暂无报价,17.99万,FALSE,暂无报价,3.83,http://p1-dcd.byteimg.com/img/motor-img/ee76bb9d0563701bfda81cf509b7d468~tplv-resize:640:0.png,2023/1/5
+smart,48,纯电,smart精灵#1,5322,,19.42-27.90万,19.00-23.00万,19.42万,FALSE,暂无报价,3.72,http://p1-dcd.byteimg.com/img/motor-img/d3dc084ea15c3a5ddb79094343132daa~tplv-resize:640:0.png,2023/1/5
+奇瑞新能源,461,纯电,小蚂蚁,1101,微型轿车销量NO.5,7.99-10.30万,暂无报价,7.99万,FALSE,暂无报价,3.16,http://p1-dcd.byteimg.com/img/motor-img/5dd22e1cc56f1a8e0e854cfa3844ba8d~tplv-resize:640:0.png,2023/1/5
+几何汽车,264,纯电,几何E,5817,小型SUV销量NO.9,8.68-13.18万,8.78-10.48万,8.68万,FALSE,暂无报价,3.54,http://p1-dcd.byteimg.com/img/motor-img/24b4dde062c27cd62f0a3e0cc6f9ac7a~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,ID.4 X,4258,,18.93-28.63万,暂无报价,19.59万,FALSE,暂无报价,3.89,http://p1-dcd.byteimg.com/img/motor-img/f48fa054209fa14a777a8a7b615a852f~tplv-resize:640:0.png,2023/1/5
+高合,249,纯电,高合HiPhi Z,5431,,61.00-63.00万,60.00-80.00万,61.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/192162a7af84b3b059801c4d261ddeb7~tplv-resize:640:0.png,2023/1/5
+ARCFOX极狐,176,纯电,极狐 阿尔法S,4637,,22.38-42.99万,暂无报价,22.38万,FALSE,暂无报价,3.95,http://p1-dcd.byteimg.com/img/motor-img/434138527be4981719eaad42469e3fd2~tplv-resize:640:0.png,2023/1/5
+阿维塔,475,纯电,阿维塔 11,5308,,34.99-60.00万,暂无报价,34.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/5bda964d202365c9e2d3a2b387f72421~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Model X,1255,,94.00-100.00万,暂无报价,94.00万,FALSE,暂无报价,4.07,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/66d9129567b043c6898ba9322d823412~tplv-resize:640:0.png,2023/1/5
+名爵,34,纯电,MG MULAN,5828,,12.98-18.68万,暂无报价,12.98万,TRUE,12.98-18.68万,0,http://p1-dcd.byteimg.com/img/motor-img/4ea84fa64f03b8933c18236449d0598b~tplv-resize:640:0.png,2023/1/5
+零跑汽车,207,纯电,零跑C01,5106,中大型轿车销量NO.10,19.38-28.68万,18.00-27.00万,19.38万,FALSE,暂无报价,4.03,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/0ee943406efb4097923418a8e25cc8a1~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,比亚迪e2,3455,,9.58-15.08万,暂无报价,9.58万,TRUE,9.58-15.08万,3.37,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/cd1d9f3f188a481dae82b85e31058e82~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,宝马i4,4211,,44.99-53.99万,暂无报价,44.99万,FALSE,暂无报价,4.05,http://p1-dcd.byteimg.com/img/motor-img/295e2c8b0e0692af1445206d311b31b3~tplv-resize:640:0.png,2023/1/5
+零跑汽车,207,纯电,零跑T03,4272,微型轿车销量NO.6,8.25-9.95万,暂无报价,8.25万,FALSE,暂无报价,3.48,http://p1-dcd.byteimg.com/img/motor-img/846a572aec5fdc674e7cc599e765d102~tplv-resize:640:0.png,2023/1/5
+埃安,242,纯电,AION V,4426,,18.98-26.98万,17.00万,18.98万,TRUE,18.98-26.98万,3.84,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/a48e0d0fb3e649839124a0ae5c94328a~tplv-resize:640:0.png,2023/1/5
+岚图,395,纯电,岚图FREE,4760,,31.36-41.99万,31.36-36.36万,31.36万,FALSE,暂无报价,4.11,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/c0af4659b60a49348bcf33568c3f5049~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQE,5813,中大型轿车销量NO.20,47.80-53.43万,53.00-59.00万,47.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4ea57237b66d26a84ae6dcc9adc0af6f~tplv-resize:640:0.png,2023/1/5
+别克,12,纯电,微蓝6,3359,,17.79-19.69万,暂无报价,17.79万,TRUE,16.53-19.39万,3.64,http://p9-dcd.byteimg.com/img/motor-img/d0c37be52fb0043b08cb96540dd7a0d0~tplv-resize:640:0.png,2023/1/5
+奇瑞新能源,461,纯电,QQ冰淇淋,5257,微型轿车销量NO.4,3.99-5.75万,2.99-4.39万,3.99万,FALSE,暂无报价,3.06,http://p1-dcd.byteimg.com/img/motor-img/acd76bab1843fbf99d97777565157ab3~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来ES7,5819,中大型SUV销量NO.3,46.80-54.80万,暂无报价,46.80万,FALSE,暂无报价,4.06,http://p1-dcd.byteimg.com/img/motor-img/14d925d0f84e8a36d05c00a891d83c18~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉黑猫,2911,,8.48-9.98万,暂无报价,8.48万,FALSE,暂无报价,3.43,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/76d8b7dd596a42668c660711eb63ba36~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,元Pro,4981,,9.88-11.88万,暂无报价,9.88万,TRUE,9.88-11.88万,3.38,http://p1-dcd.byteimg.com/img/motor-img/83bf43c3cb8ae3e3aa7a4c2440847051~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱Air ev晴空,5896,全新车系,6.78-8.28万,暂无报价,6.78万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/8c27ef5a5a234a1d8d74da44fb388893~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQC,3719,,29.19-37.19万,暂无报价,49.19万,FALSE,暂无报价,4.03,http://p1-dcd.byteimg.com/img/motor-img/af9519c896135b4d911ee16d8d22743f~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQA,1729,,21.13万,37.00万,32.18万,FALSE,暂无报价,3.89,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/108a9066ea5645b1a2ad5975cf383059~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,一汽丰田bZ4X,5860,,19.98-28.48万,20.00-29.00万,19.98万,TRUE,19.98-28.48万,0,http://p1-dcd.byteimg.com/img/motor-img/189c3b232b99c56e0bfb8f4a5acc800b~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,秦EV,1820,,12.99-16.98万,暂无报价,12.99万,TRUE,12.99-16.98万,3.54,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/edf3bade78b54fc49037a1bcabd6a8ae~tplv-resize:640:0.png,2023/1/5
+路特斯,85,纯电,路特斯Eletre,5825,,82.80-102.80万,暂无报价,82.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/70ed33cdce124094aad91ba9667dd3f9~tplv-resize:640:0.png,2023/1/5
+电动屋,451,纯电,YOUNG光小新,5293,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e7d3dfb75860d5ec96051db4ae98213a~tplv-resize:640:0.png,2023/1/5
+荣威,36,纯电,科莱威CLEVER,3710,微型轿车销量NO.3,6.00万,暂无报价,6.00万,FALSE,暂无报价,3.08,http://p1-dcd.byteimg.com/img/motor-img/0df783917aab490ada07cd607aa9dedf~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,ID.6 X,4894,中大型SUV销量NO.17,25.99-33.89万,暂无报价,25.99万,FALSE,暂无报价,3.99,http://p1-dcd.byteimg.com/img/motor-img/bc5400d7759589d05ac39a0f52362327~tplv-resize:640:0.png,2023/1/5
+高合,249,纯电,高合HiPhi X,3975,,57.00-80.00万,暂无报价,57.00万,FALSE,暂无报价,4.16,http://p1-dcd.byteimg.com/img/motor-img/ffeed63a3d77e832e4010a065fbf156c~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来ES6,2843,,38.60-55.40万,暂无报价,38.60万,FALSE,暂无报价,4.04,http://p1-dcd.byteimg.com/img/motor-img/6c923efdd0639f2ae5e921325cb516f2~tplv-resize:640:0.png,2023/1/5
+岚图,395,纯电,梦想家 EV,5416,中大型MPV销量NO.9,36.99-68.99万,38.00-60.00万,36.99万,FALSE,暂无报价,4.11,http://p1-dcd.byteimg.com/img/motor-img/f555a18ac28d80c7e938d27b137da439~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,比亚迪e9,4797,,23.58-24.18万,暂无报价,23.58万,TRUE,23.58-24.18万,0,http://p1-dcd.byteimg.com/img/motor-img/1fa7749798e5e6ea432d3b6c87e7be16~tplv-resize:640:0.png,2023/1/5
+几何汽车,264,纯电,几何A,3157,纯电动销量NO.18,12.68-20.78万,15.00-17.00万,12.68万,TRUE,12.68-20.78万,3.67,http://p3-dcd.byteimg.com/img/motor-img/ef638ed8ed491bd5bb2a12337d91faa9~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,本田e:NS1,5387,小型SUV销量NO.19,15.00-19.30万,18.00-21.00万,17.50万,TRUE,17.50-21.80万,3.62,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/0a57ed27aacd44b481e78ac2404d68e1~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,ID.6 CROZZ,4961,中大型SUV销量NO.7,25.89-33.69万,暂无报价,25.89万,FALSE,暂无报价,3.98,http://p1-dcd.byteimg.com/img/motor-img/6bed7b14097cb1b189b4c7f0fc120484~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪RS e-tron GT,4782,全新车系,146.88万,148.00万,146.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/359271c66762d7f73b3ae54f893a33da~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQS,4668,,84.50-131.40万,暂无报价,84.50万,FALSE,暂无报价,4.3,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/28eafe9daed145deb0a1df142b331f6f~tplv-resize:640:0.png,2023/1/5
+小鹏汽车,195,纯电,小鹏G3,2819,,16.89-20.19万,暂无报价,16.89万,FALSE,暂无报价,3.72,http://p1-dcd.byteimg.com/img/motor-img/5fe645aae83133a591bb27313ec66986~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQB,3932,,35.18-42.37万,44.00万,35.18万,FALSE,暂无报价,3.91,http://p1-dcd.byteimg.com/img/motor-img/a4f302cd33c3df9cc8cd03a164467797~tplv-resize:640:0.png,2023/1/5
+宝骏,366,纯电,宝骏KiWi EV,5093,微型轿车销量NO.9,7.78-10.28万,6.98-7.88万,7.78万,TRUE,8.78-10.28万,3.54,http://p9-dcd.byteimg.com/img/motor-img/efdc6c8ac11f8f256a1a69c114935b01~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来EC6,4357,,39.60-55.40万,暂无报价,39.60万,FALSE,暂无报价,4.02,http://p1-dcd.byteimg.com/img/motor-img/7ee326810d8b5c4cd7ec4b12c72161e4~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,宝马i7,4296,全新车系,145.90万,暂无报价,145.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/c504819f53f34fcb9a91f98c04130846~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,广汽丰田bZ4X,5570,,19.98-28.78万,22.00-30.00万,19.98万,TRUE,19.98-28.78万,0,http://p1-dcd.byteimg.com/img/motor-img/0534600885eae10c8086cc8cee5d19fb~tplv-resize:640:0.png,2023/1/5
+东风EV新能源,417,纯电,东风EV新能源EX1,4125,,6.47-7.17万,暂无报价,6.47万,FALSE,暂无报价,2.96,http://p1-dcd.byteimg.com/img/motor-img/47eb34ef88ec9cb072f2eb11e9164fa2~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪Q5 e-tron,5002,,35.65-47.95万,40.00-52.00万,35.65万,FALSE,暂无报价,3.98,http://p3-dcd.byteimg.com/img/motor-img/6a288e43d3e85af91ecebda0776126cb~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,e:NP1 极湃1,5392,小型SUV销量NO.18,17.50-21.80万,17.50-20.50万,17.50万,TRUE,17.50-21.80万,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/8f1fca2269d94ce289be76e6a2da2dd8~tplv-resize:640:0.png,2023/1/5
+日产,10,纯电,ARIYA 艾睿雅,5895,,25.28-30.08万,暂无报价,28.54万,TRUE,25.28-31.28万,3.9,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/48d6c6c0d6a449009fa84615df0954b8~tplv-resize:640:0.png,2023/1/5
+埃安,242,纯电,AION LX,3503,,28.66-46.96万,暂无报价,28.66万,FALSE,暂无报价,3.95,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/a6e6d8f8a40e42a984dfb82e834cfa58~tplv-resize:640:0.png,2023/1/5
+劳斯莱斯,41,纯电,闪灵,5374,全新车系,575.00万,暂无报价,575.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/f812fd6d2cbd44299b366877b1d9ba6e~tplv-resize:640:0.png,2023/1/5
+ARCFOX极狐,176,纯电,极狐 阿尔法T,4385,,21.88-32.53万,25.00-33.00万,21.88万,FALSE,暂无报价,3.91,http://p9-dcd.byteimg.com/img/motor-img/929f0f031ceb8130238fac5cc5db9f70~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉芭蕾猫,5297,,19.30-22.30万,19.30-22.30万,19.30万,TRUE,19.30-22.30万,3.69,http://p1-dcd.byteimg.com/img/motor-img/0bedfedf47aa941755f9ae70f4b0233b~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉白猫,2912,,8.68-10.38万,7.58-8.88万,8.68万,FALSE,暂无报价,3.41,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/6b6d80c5eab34f69bd88d354b6a43ce7~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来EC7,6224,全新车系,48.80-57.80万,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/885a4f39f1d84a7aadde3c114219c1dd~tplv-resize:640:0.png,2023/1/5
+飞凡汽车,401,纯电,飞凡R7,4980,中大型SUV销量NO.11,30.25-36.95万,暂无报价,30.25万,TRUE,28.99-35.69万,4.06,http://p1-dcd.byteimg.com/img/motor-img/2507f6dc00a4a2d327a6a8706ca16275~tplv-resize:640:0.png,2023/1/5
+几何汽车,264,纯电,几何C,4380,,12.98-20.78万,13.98万,12.98万,TRUE,12.98-20.78万,3.75,http://p1-dcd.byteimg.com/img/motor-img/14800010db265dbb4e54b322efe6b9fb~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱Nano EV,5047,,5.68-6.68万,暂无报价,5.68万,FALSE,暂无报价,3.06,http://p3-dcd.byteimg.com/img/motor-img/91d0af2faeadb3a1ce07bee26159a802~tplv-resize:640:0.png,2023/1/5
+思皓,235,纯电,花仙子,4819,微型轿车销量NO.13,6.69-9.09万,暂无报价,6.69万,FALSE,暂无报价,3.25,http://p9-dcd.byteimg.com/img/motor-img/53b9b8709c0777afc9aaa852aeee11c9~tplv-resize:640:0.png,2023/1/5
+马自达,15,纯电,马自达CX-30 EV,5069,,15.98-20.18万,暂无报价,15.98万,TRUE,15.98-20.18万,3.59,http://p1-dcd.byteimg.com/img/motor-img/79d417ac74b4f57a2935af5f3cdf409e~tplv-resize:640:0.png,2023/1/5
+东风EV新能源,417,纯电,纳米BOX,5968,小型SUV销量NO.6,7.47-7.97万,6.60-7.20万,7.47万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/49485a6aaae1402388ea2f897d97f5a7~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪Q2L e-tron,3337,,17.50万,暂无报价,24.38万,FALSE,暂无报价,3.65,http://p1-dcd.byteimg.com/img/motor-img/5baddc755b3d04932ff63931b637f51d~tplv-resize:640:0.png,2023/1/5
+雪佛兰,6,纯电,雪佛兰畅巡,4081,,17.03-18.73万,暂无报价,17.03万,TRUE,17.03-18.73万,3.68,http://p1-dcd.byteimg.com/img/motor-img/017ffe70e741c3fe352de81cc84795ce~tplv-resize:640:0.png,2023/1/5
+几何汽车,264,纯电,几何G6,6080,,14.98-18.68万,15.28-17.48万,14.98万,TRUE,14.98-18.68万,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/81316967e431458da0c6c88167e31a19~tplv-resize:640:0.png,2023/1/5
+雷丁,282,纯电,芒果,4689,微型轿车销量NO.7,4.69-7.39万,暂无报价,4.69万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/7f1923e3ec0a4be69ce4a72dfefe6ed7~tplv-resize:640:0.png,2023/1/5
+零跑汽车,207,纯电,零跑S01,1934,,12.99-14.99万,暂无报价,12.99万,TRUE,12.99-14.99万,3.28,http://p1-dcd.byteimg.com/img/motor-img/3b318ce984dc799f5fe64c2b8a74b54d~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,比亚迪D1,4638,紧凑型MPV销量NO.11,15.78-16.78万,暂无报价,15.78万,TRUE,15.78-16.78万,3.62,http://p3-dcd.byteimg.com/img/motor-img/16a73f90c37db0a802139dd3bcb55a8b~tplv-resize:640:0.png,2023/1/5
+奇瑞新能源,461,纯电,无界Pro,5888,微型轿车销量NO.10,8.99-11.59万,8.99-11.29万,8.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/531ff72a8592465a87048f5b5d1bb8fa~tplv-resize:640:0.png,2023/1/5
+雷克萨斯,22,纯电,雷克萨斯UX EV,4281,,36.20-38.50万,暂无报价,36.20万,FALSE,暂无报价,3.7,http://p1-dcd.byteimg.com/img/motor-img/4765b61932b59e12064a9bf98154f0f6~tplv-resize:640:0.png,2023/1/5
+Polestar极星,196,纯电,Polestar 2,3166,,29.98-35.88万,暂无报价,29.98万,FALSE,暂无报价,4,http://p1-dcd.byteimg.com/img/motor-img/a37677a533fb3109e4502068cbf7c443~tplv-resize:640:0.png,2023/1/5
+前途,149,纯电,前途K50,1139,,75.43万,暂无报价,75.43万,FALSE,暂无报价,3.58,http://p1-dcd.byteimg.com/img/motor-img/b0378f52b622d1d88574e059d5ca6163~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,纯电,沃尔沃C40 RECHARGE,4924,,28.90-33.90万,26.70-32.80万,28.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a33abe2401429de388c10fa422965b66~tplv-resize:640:0.png,2023/1/5
+合创汽车,303,纯电,合创A06,6069,,17.98-26.98万,18.00-27.00万,17.98万,TRUE,17.98-26.98万,0,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4f16638669b440978df64c45543fb9cc~tplv-resize:640:0.png,2023/1/5
+奔腾,27,纯电,奔腾NAT,4861,紧凑型MPV销量NO.2,14.78-16.48万,暂无报价,14.78万,TRUE,14.78-16.48万,0,http://p1-dcd.byteimg.com/img/motor-img/86e59b68321279091b353bb89ec0d411~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,宝马iX,3023,,74.69-99.69万,暂无报价,74.69万,FALSE,暂无报价,4.15,http://p1-dcd.byteimg.com/img/motor-img/2305ca6d1b718c100e03f60d9e3c131a~tplv-resize:640:0.png,2023/1/5
+长安,35,纯电,逸动EV,1456,,14.99-15.99万,暂无报价,14.99万,FALSE,暂无报价,3.58,http://p1-dcd.byteimg.com/img/motor-img/436afddc96adbf1bea9ad5e693d13a35~tplv-resize:640:0.png,2023/1/5
+凌宝汽车,384,纯电,凌宝BOX,4503,微型轿车销量NO.8,4.18-6.88万,暂无报价,4.18万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/tos-cn-i-0000c0030/ac2c0e0e38e9475594f2037520b662b3~tplv-resize:640:0.png,2023/1/5
+红旗,59,纯电,红旗E-HS3,2861,,22.58-26.58万,暂无报价,22.58万,TRUE,22.58-26.58万,3.72,http://p1-dcd.byteimg.com/img/motor-img/aeb1737f0f84e056a8e71d440b1a3b24~tplv-resize:640:0.png,2023/1/5
+东风风神,37,纯电,东风风神E70,1655,纯电动销量NO.14,14.28-15.38万,暂无报价,14.28万,TRUE,14.28-15.38万,3.49,http://p3-dcd.byteimg.com/img/motor-img/3645e5106165def002a7ab1f2300c71c~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪e-tron,4543,,43.74-51.90万,暂无报价,54.68万,FALSE,暂无报价,4.05,http://p1-dcd.byteimg.com/img/motor-img/e8587b667f120eb9f0f98d11371b8b74~tplv-resize:640:0.png,2023/1/5
+合创汽车,303,纯电,合创Z03,5089,,13.48-18.28万,暂无报价,13.48万,FALSE,暂无报价,3.6,http://p1-dcd.byteimg.com/img/motor-img/c0c1beb8a27bc758d3f36806191a31d8~tplv-resize:640:0.png,2023/1/5
+三菱,26,纯电,阿图柯AIRTREK,5121,,19.98-22.98万,21.00-24.00万,19.98万,TRUE,19.98-22.98万,3.75,http://p1-dcd.byteimg.com/img/motor-img/2958af94a6ade6609dc6fe35d80327fb~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉好猫GT,5269,,14.90-16.90万,暂无报价,14.90万,FALSE,暂无报价,3.68,http://p1-dcd.byteimg.com/img/motor-img/9818f408968d5e7d5d56a24c184da24f~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,比亚迪e3,4076,,15.48万,暂无报价,15.48万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/993f74dfdbd9feb7e14875c014b44163~tplv-resize:640:0.png,2023/1/5
+腾势,159,纯电,腾势D9 EV,5842,,38.98-45.98万,39.00-46.00万,38.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9b42e466a7ce2f10e9fdf079dedd23c1~tplv-resize:640:0.png,2023/1/5
+路特斯,85,纯电,Evija,3760,,2188.00万,暂无报价,2188.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b2e9eeb3ce48d48a787cc8e5eaab325b~tplv-resize:640:0.png,2023/1/5
+大力牛魔王,551,纯电,大力牛魔王01,6286,全新车系,2.88-3.78万,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ddfcd91316454ba3a6f9c9523d3adca8~tplv-resize:640:0.png,2023/1/5
+沙龙汽车,478,纯电,机甲龙,5464,,48.80万,暂无报价,48.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/96c4bb88b676a0422142af6366519dbd~tplv-resize:640:0.png,2023/1/5
+睿蓝汽车,381,纯电,枫叶60s,5151,,7.98-14.98万,14.18-17.18万,7.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/22ab00035ad9fd4ac71b8baf75aa7293~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱缤果,6266,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/4804a6ed9faa4a7fafb93997d085cd92~tplv-resize:640:0.png,2023/1/5
+几何汽车,264,纯电,几何M6,6081,,14.48-18.18万,15.28-17.48万,14.98万,TRUE,14.98-18.68万,0,http://p1-dcd.byteimg.com/img/motor-img/83c8ee7c79a3f33e111a6de8c54e21bc~tplv-resize:640:0.png,2023/1/5
+雷丁,282,纯电,芒果Pro,5525,,3.98-5.99万,3.98-5.99万,3.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/006d1d65e748edc14d9f95a07b4d7281~tplv-resize:640:0.png,2023/1/5
+福特,7,纯电,领界EV,3367,,17.98-19.28万,19.90-22.30万,17.98万,TRUE,17.98-19.28万,0,http://p1-dcd.byteimg.com/img/motor-img/f69c69ea482582b16f04027993b31377~tplv-resize:640:0.png,2023/1/5
+睿蓝汽车,381,纯电,睿蓝9,6003,全新车系,16.99-19.99万,暂无报价,16.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/7575b7c9d59f478391ec644c2ae07201~tplv-resize:640:0.png,2023/1/5
+恒驰,399,纯电,恒驰5,4678,,17.90万,17.90万,17.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/f6a394d645f3d8c62b651f935b3d7000~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,海狮,6068,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/42341549ad1e029a5fd70ec4b0a9f85c~tplv-resize:640:0.png,2023/1/5
+思铭,105,纯电,东风本田M-NV,4585,,11.88-12.88万,暂无报价,14.98万,TRUE,14.98-15.98万,3.54,http://p1-dcd.byteimg.com/img/motor-img/b20ad2749ca184a995d7d9b88d20b147~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田C-HR EV,3338,,18.38-20.78万,暂无报价,22.58万,TRUE,22.58-24.98万,3.63,http://p1-dcd.byteimg.com/img/motor-img/2527b344582b3625823947122543bf78~tplv-resize:640:0.png,2023/1/5
+荣威,36,纯电,荣威iMAX8 EV,5818,中大型MPV销量NO.14,25.98-35.98万,27.98-32.98万,25.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/437bbdefa5344103969bdbec57eb38d7~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,纯电,沃尔沃XC40 RECHARGE,4738,,27.99-31.90万,暂无报价,27.99万,FALSE,暂无报价,3.81,http://p1-dcd.byteimg.com/img/motor-img/31d2b6da640b935204b7bfc42e4206a2~tplv-resize:640:0.png,2023/1/5
+荣威,36,纯电,荣威Ei5,1760,,14.48-15.88万,暂无报价,14.48万,TRUE,14.48-15.88万,3.52,http://p1-dcd.byteimg.com/img/motor-img/f44c223bbfe4ddf0d92ef89139ae89bd~tplv-resize:640:0.png,2023/1/5
+睿蓝汽车,381,纯电,枫叶80v,4688,紧凑型MPV销量NO.3,8.98-15.98万,暂无报价,8.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7686d8b65af80d29a3f9525a4ae15ecf~tplv-resize:640:0.png,2023/1/5
+大运,372,纯电,悦虎,4388,小型SUV销量NO.8,7.18-8.28万,暂无报价,7.18万,TRUE,7.18-7.78万,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/4cb405311c764086a0d15d1079607651~tplv-resize:640:0.png,2023/1/5
+广汽集团,237,纯电,广汽丰田iA5,4087,,15.98-19.28万,暂无报价,15.98万,FALSE,暂无报价,3.63,http://p1-dcd.byteimg.com/img/motor-img/d615385354694acde6298b463af5aba7~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQS AMG,5171,,154.70万,暂无报价,154.70万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9c35782a2db317fd0c2e33544f2416a7~tplv-resize:640:0.png,2023/1/5
+集度汽车,489,纯电,ROBO-01,5967,,39.98万,暂无报价,39.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/02312c607015b88b38ed5318a3e02664~tplv-resize:640:0.png,2023/1/5
+东风风光,95,纯电,风光MINIEV,5389,微型轿车销量NO.16,3.26-5.56万,2.86-4.16万,3.26万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d7c240b7c803e1ce776dddab51d26248~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS MIFA 9,5063,2023新款,26.99-41.99万,27.99万,26.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/149f3cd713fb650b0414ba133fad555a~tplv-resize:640:0.png,2023/1/5
+别克,12,纯电,微蓝7,4378,,19.78-21.78万,暂无报价,19.78万,TRUE,18.77-20.77万,3.61,http://p3-dcd.byteimg.com/img/motor-img/e3c9e58761031482824d91d0d05d3590~tplv-resize:640:0.png,2023/1/5
+捷尼赛思,273,纯电,捷尼赛思GV70 EV,5454,,38.58-43.98万,暂无报价,38.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/126301079990434fab726a085cbb6c0c~tplv-resize:640:0.png,2023/1/5
+启辰,109,纯电,启辰D60 EV,3351,,13.98-15.80万,暂无报价,13.98万,FALSE,暂无报价,3.46,http://p1-dcd.byteimg.com/img/motor-img/9defc15eb235673157d66da8cbba5273~tplv-resize:640:0.png,2023/1/5
+创维汽车,368,纯电,创维EV6,5122,,14.68-25.28万,暂无报价,14.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/97b25724315a43ecaab93ae433fcaa03~tplv-resize:640:0.png,2023/1/5
+捷尼赛思,273,纯电,捷尼赛思G80 EV,5054,,40.68-47.58万,暂无报价,40.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/09601703c9cf40998e20f611c594dd2e~tplv-resize:640:0.png,2023/1/5
+江铃集团新能源,136,纯电,小麒麟,5898,,5.59-5.89万,暂无报价,5.59万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/a30b9c62ac0e4fc4a59fd3f6002a27cb~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,纯电,北京EU5,4074,纯电动销量NO.17,12.99-17.19万,暂无报价,12.99万,TRUE,12.99-17.19万,3.53,http://p9-dcd.byteimg.com/img/motor-img/fac9641308c9c3c9b23765bdcbdd6697~tplv-resize:640:0.png,2023/1/5
+几何汽车,264,纯电,帝豪EV,735,,14.68-16.98万,暂无报价,14.68万,TRUE,14.68-16.98万,3.55,http://p1-dcd.byteimg.com/img/motor-img/0fd8b1fa3b9415afad38741c159dd3e5~tplv-resize:640:0.png,2023/1/5
+现代,11,纯电,菲斯塔 纯电动,3759,,17.38-19.88万,17.38-19.88万,17.38万,TRUE,17.38-19.88万,3.65,http://p9-dcd.byteimg.com/img/motor-img/6def6668eda5c8d394c50bffbcb0c134~tplv-resize:640:0.png,2023/1/5
+威马汽车,185,纯电,威马E.5,5152,,16.01-19.01万,暂无报价,16.01万,FALSE,暂无报价,3.75,http://p1-dcd.byteimg.com/img/motor-img/561fc274c90a455fb0c9c2d914345c47~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱荣光EV,4320,,13.58-13.91万,暂无报价,13.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/02f306472eacfa1680d3211f0d5ee5b1~tplv-resize:640:0.png,2023/1/5
+小虎,429,纯电,小虎FEV,5014,微型轿车销量NO.20,4.09-5.59万,暂无报价,4.09万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9265da77f9e501614776f2afe7afa78f~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪e-tron Sportback(进口),4962,,66.98-72.98万,暂无报价,66.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/53b0d3710835177695ee94d1375228d1~tplv-resize:640:0.png,2023/1/5
+飞凡汽车,401,纯电,飞凡MARVEL R,4529,,22.98-26.98万,22.00万,22.98万,TRUE,22.98-26.98万,3.74,http://p1-dcd.byteimg.com/img/motor-img/f32e8ee251a87005a4d0b6242cc5b278~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS EUNIQ 5,3468,紧凑型MPV销量NO.15,17.68-21.28万,暂无报价,17.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8da0b858ee54096f009be265dc14a11f~tplv-resize:640:0.png,2023/1/5
+Polestar极星,196,纯电,Polestar 3,5356,,88.00-103.00万,暂无报价,88.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/71f73c68465f419db3755d42a906733b~tplv-resize:640:0.png,2023/1/5
+荣威,36,纯电,荣威i6 MAX EV,4582,,14.68-18.18万,暂无报价,14.68万,TRUE,14.68-18.18万,0,http://p1-dcd.byteimg.com/img/motor-img/4a62b4c1ac07ae8e723dc417a5f06360~tplv-resize:640:0.png,2023/1/5
+奇瑞新能源,461,纯电,大蚂蚁,4384,,18.38万,暂无报价,18.38万,FALSE,暂无报价,3.75,http://p1-dcd.byteimg.com/img/motor-img/db1039beb5b509e00edf8d706623e04d~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪A6 e-tron,5086,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/c485b71c4ba64fa7a07508199847c426~tplv-resize:640:0.png,2023/1/5
+威马汽车,185,纯电,威马EX5,1915,,16.08-17.98万,暂无报价,16.08万,FALSE,暂无报价,3.74,http://p1-dcd.byteimg.com/img/motor-img/674ada0515737833a6fa6ad2d2b8f748~tplv-resize:640:0.png,2023/1/5
+威马汽车,185,纯电,威马W6,3398,,19.58-25.98万,暂无报价,19.58万,FALSE,暂无报价,3.85,http://p1-dcd.byteimg.com/img/motor-img/e4399ede36e1a5443d96e2dd7188cab8~tplv-resize:640:0.png,2023/1/5
+思皓,235,纯电,思皓E50A,4649,新增车型,15.29-18.98万,13.99-16.49万,15.29万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/f5084aff3a76644c68e8bbabdd27976e~tplv-resize:640:0.png,2023/1/5
+启辰,109,纯电,启辰e30,3452,,7.24-8.54万,7.00-8.00万,7.24万,TRUE,6.18-7.48万,0,http://p1-dcd.byteimg.com/img/motor-img/30a646d6e4aba66fe6d6309c9e4f498a~tplv-resize:640:0.png,2023/1/5
+开云汽车,259,纯电,开云电皮卡,3163,,1.68-2.88万,暂无报价,1.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/811303390159be1543376e44c29ffb6a~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,奕泽E进擎,3339,,22.58-25.38万,暂无报价,22.58万,TRUE,22.58-25.38万,3.65,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/51374ea74dd348da89ff211b4f4e7574~tplv-resize:640:0.png,2023/1/5
+岚图,395,纯电,岚图追光,6205,即将上市,暂无报价,32.29-43.29万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/01b52e78b31f404fba6a7ba71f99de4d~tplv-resize:640:0.png,2023/1/5
+云度,188,纯电,云度π1,1713,,7.48-7.98万,暂无报价,7.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/efda7177e4b645569d3b0fe4e226b92e~tplv-resize:640:0.png,2023/1/5
+雷达汽车,514,纯电,雷达RD6,6020,,17.88-26.88万,18.00万,17.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/08d6e449e6f4402eae69d9585327b297~tplv-resize:640:0.png,2023/1/5
+华梓汽车,469,纯电,欧麦加,6023,,4.98-5.98万,暂无报价,4.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9dcf784446b0256e53df961364f55255~tplv-resize:640:0.png,2023/1/5
+起亚,13,纯电,起亚K3 EV,4294,,22.98-23.98万,暂无报价,22.98万,TRUE,17.68-18.68万,3.57,http://p1-dcd.byteimg.com/img/motor-img/84eb314bb191ef1217b3dceb4b0a6db6~tplv-resize:640:0.png,2023/1/5
+腾势,159,纯电,腾势X BEV,4305,,31.98-35.78万,暂无报价,31.98万,TRUE,31.98-35.78万,3.94,http://p3-dcd.byteimg.com/img/motor-img/3075c6e3fdaa9d8bd05946edcbda04cf~tplv-resize:640:0.png,2023/1/5
+长城,8,纯电,炮EV,3469,,25.18-26.78万,暂无报价,25.18万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/cd572fcae15d8f970e61c968f299aa11~tplv-resize:640:0.png,2023/1/5
+现代,11,纯电,名图 纯电动,4758,,17.88-20.38万,暂无报价,17.88万,TRUE,17.88-20.38万,3.66,http://p1-dcd.byteimg.com/img/motor-img/b67b3eec8cfd60f7bff89c8e01f844a6~tplv-resize:640:0.png,2023/1/5
+睿蓝汽车,381,纯电,枫叶30X,4488,,6.88-9.58万,6.88-7.98万,6.88万,TRUE,6.88-9.58万,3.32,http://p1-dcd.byteimg.com/img/motor-img/10ee0a7a5f264f45fd261eb0985a64ad~tplv-resize:640:0.png,2023/1/5
+北汽制造,78,纯电,元宝,5788,微型轿车销量NO.11,4.19-5.19万,3.49-4.99万,4.19万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/f2a8d46ffd534d409d74121995a021cd~tplv-resize:640:0.png,2023/1/5
+东风风行,70,纯电,菱智M5 EV,1793,中型MPV销量NO.7,14.99-17.39万,暂无报价,14.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/15d17f467e2b685be5487fe2fcad8df9~tplv-resize:640:0.png,2023/1/5
+理念,111,纯电,广汽本田VE-1,3096,,15.98-18.68万,暂无报价,15.98万,FALSE,暂无报价,3.61,http://p1-dcd.byteimg.com/img/motor-img/6b45b76df3eac473edc4da19a10ce8d7~tplv-resize:640:0.png,2023/1/5
+smart,48,纯电,smart精灵#3,6272,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/04fd7805571f49789481bbb20a03f7f1~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱EV80,5867,,21.30万,暂无报价,21.30万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/5db14993198b1947b18f46818ffefc58~tplv-resize:640:0.png,2023/1/5
+北汽制造,78,纯电,北汽豹,4394,,暂无报价,暂无报价,5.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/79e11500c18d923f40bcb7c961e7439e~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,纯电,北京EU7,3349,,15.99-17.59万,暂无报价,15.99万,TRUE,15.99-17.59万,3.71,http://p3-dcd.byteimg.com/img/motor-img/a89ebb93dfc879c3e9a1ed65c37a7388~tplv-resize:640:0.png,2023/1/5
+华晨新日,413,纯电,华晨新日i03,4834,微型轿车销量NO.12,4.39-7.58万,暂无报价,4.39万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/6f94191738bca583a363b6a29c8a5c85~tplv-resize:640:0.png,2023/1/5
+江铃集团新能源,136,纯电,羿,4858,,13.98-19.98万,14.00-17.00万,13.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c53f4e31b5bc85aa0d8c14dec47cac09~tplv-resize:640:0.png,2023/1/5
+捷途,209,纯电,捷途X70S EV,3353,,16.98-17.98万,暂无报价,16.98万,TRUE,16.98-17.98万,0,http://p1-dcd.byteimg.com/img/motor-img/f4e6e2fbaa0cecf457663534e094c6f1~tplv-resize:640:0.png,2023/1/5
+橙仕,421,纯电,橙仕01,4919,,5.68-7.20万,暂无报价,5.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7155d1c7661ddbff4740f709d9f86cfc~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉朋克猫,5079,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/1dade28ef80a11cf2af6d64bb7f58863~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田bZ3,6126,即将上市,暂无报价,18.98-21.98万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/ca9eabb07ab34d368a055397ae5f450d~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS T90 EV,4821,,29.98万,暂无报价,29.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/08b128c2e655aed1c6a102cd44372c10~tplv-resize:640:0.png,2023/1/5
+凌宝汽车,384,纯电,凌宝COCO,5032,,3.58-3.98万,暂无报价,3.58万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/111284e8347160f59512ad08dab736a3~tplv-resize:640:0.png,2023/1/5
+华梓汽车,469,纯电,华梓1号,5415,,2.98-4.98万,暂无报价,2.98万,TRUE,2.98-4.98万,0,http://p1-dcd.byteimg.com/img/motor-img/389b25454287181e264a8974d04780b5~tplv-resize:640:0.png,2023/1/5
+思皓,235,纯电,思皓爱跑,5868,,14.69-17.69万,13.99-18.59万,14.69万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/076bc948f11dbcfec71b9f42df8a364d~tplv-resize:640:0.png,2023/1/5
+东风风行,70,纯电,风行S50 EV,1810,,13.19-15.99万,暂无报价,13.19万,TRUE,13.19-15.99万,3.42,http://p1-dcd.byteimg.com/img/motor-img/7dc51c86c5c6d2541cadc95dcf4aa5d0~tplv-resize:640:0.png,2023/1/5
+别克,12,纯电,别克E5,6271,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/c5817669114b43e6b3d506f93584ae35~tplv-resize:640:0.png,2023/1/5
+凌宝汽车,384,纯电,凌宝Uni,5385,微型轿车销量NO.15,3.88-4.78万,暂无报价,3.88万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/f0549e706e22b4bef069b9e470c55ff3~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS EUNIQ 6,3464,,16.28-20.28万,暂无报价,16.28万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/eea0af8eaac3b4a0e837ec1c1833bd6d~tplv-resize:640:0.png,2023/1/5
+爱驰,232,纯电,爱驰U5,2818,,17.99-19.99万,暂无报价,17.99万,TRUE,17.99-19.99万,3.66,http://p9-dcd.byteimg.com/img/tos-cn-i-0000c0030/10aa017bef284b42acedbda0712039ce~tplv-resize:640:0.png,2023/1/5
+百智新能源,459,纯电,百智大熊,5334,,3.88-5.88万,2.78-3.38万,3.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/05eb24249b823a800141bae742dc6ff2~tplv-resize:640:0.png,2023/1/5
+长安欧尚,119,纯电,长安欧尚科尚EV,4520,,16.68万,暂无报价,16.68万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/c313a97054f0a29deacd89983a5be981~tplv-resize:640:0.png,2023/1/5
+智己汽车,419,纯电,智己LS7,4869,即将上市,暂无报价,35.00-50.00万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/117024387371af50e4c69ceef7e762f4~tplv-resize:640:0.png,2023/1/5
+启辰,109,纯电,启辰T60 EV,3453,,16.38-18.18万,暂无报价,16.38万,TRUE,13.88-15.68万,0,http://p1-dcd.byteimg.com/img/motor-img/8580d3841feffe043c2ca57c2cf034c7~tplv-resize:640:0.png,2023/1/5
+奔腾,27,纯电,奔腾E01,4278,,19.68-22.88万,暂无报价,19.68万,FALSE,暂无报价,3.71,http://p1-dcd.byteimg.com/img/motor-img/3775b0fd779b392934bda5da3e46864d~tplv-resize:640:0.png,2023/1/5
+思皓,235,纯电,思皓E40X,4650,,14.95-15.95万,13.00-15.59万,14.95万,FALSE,暂无报价,3.69,http://p1-dcd.byteimg.com/img/motor-img/f2d48c789b8f43889b689066027fc781~tplv-resize:640:0.png,2023/1/5
+DS,55,纯电,DS 3 EV,3383,,31.33-33.33万,暂无报价,31.33万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a1e11c23e112df16349895f8acdfbaf4~tplv-resize:640:0.png,2023/1/5
+江铃集团新能源,136,纯电,易至EV3小雷达,3028,微型轿车销量NO.17,7.98-8.48万,暂无报价,7.98万,TRUE,7.98-8.48万,0,http://p3-dcd.byteimg.com/img/motor-img/486c35ff335c82c459a433101236db5d~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱EV50,4490,,12.48-13.88万,10.80-11.70万,12.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/044382f4c36515d97cc11893f22e01f8~tplv-resize:640:0.png,2023/1/5
+爱驰,232,纯电,爱驰U6,4464,,21.99-23.79万,暂无报价,21.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/40840bff50144fe78e5e460cfba3a2d9~tplv-resize:640:0.png,2023/1/5
+朋克汽车,420,纯电,朋克美美,4871,,3.48-4.88万,2.98-4.68万,3.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/60a10e5922963f11d17424a6c51dff36~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱荣光小卡EV,5277,,11.38-11.78万,暂无报价,11.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9fe9be1f96d0ae7912a652c70ac6afd6~tplv-resize:640:0.png,2023/1/5
+前途,149,纯电,前途K20,2837,即将上市,暂无报价,8.68-14.98万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/2d49c6363ef2f14a481ef3a9cdddcce8~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,长安欧尚A600 EV,2986,紧凑型MPV销量NO.16,14.98万,暂无报价,14.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000683b18094dbf~tplv-resize:640:0.png,2023/1/5
+江淮,32,纯电,江淮iEV7,3587,,10.95-11.10万,暂无报价,10.95万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4d1deeb1daad3a5a6c44ea50917922f8~tplv-resize:640:0.png,2023/1/5
+兰博基尼,42,纯电,Terzo Millennio,1961,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000893be0a5adb4~tplv-resize:640:0.png,2023/1/5
+合创汽车,303,纯电,合创007,3723,,29.98万,暂无报价,29.98万,FALSE,暂无报价,3.74,http://p1-dcd.byteimg.com/img/motor-img/08a44355529f774514bb9aa8957929a2~tplv-resize:640:0.png,2023/1/5
+瑞风汽车,512,纯电,瑞风E3,5474,新增车型,18.98-20.88万,暂无报价,18.98万,TRUE,19.98-20.88万,0,http://p1-dcd.byteimg.com/img/motor-img/9b9b2bcb01b623c18ed53331a08ff11b~tplv-resize:640:0.png,2023/1/5
+广汽集团,237,纯电,绎乐,4795,,16.78-18.98万,暂无报价,16.78万,FALSE,暂无报价,3.68,http://p1-dcd.byteimg.com/img/motor-img/7c81468c2481b939613261d525bd1e8b~tplv-resize:640:0.png,2023/1/5
+大运,372,纯电,远志M1,4542,中型MPV销量NO.8,17.78-32.88万,暂无报价,17.78万,TRUE,17.78-32.88万,0,http://p9-dcd.byteimg.com/img/motor-img/1391df865bb70731fc6a7ad8cce7f124~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS EV80,1825,2023新款,16.48-28.42万,暂无报价,16.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a411c7969b963b8c28647b318477e834~tplv-resize:640:0.png,2023/1/5
+奇瑞新能源,461,纯电,艾瑞泽e,4086,,15.24万,暂无报价,15.24万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/801fac00fa4a0818fc25e1fc20372dda~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Model Y(海外),3178,,暂无报价,48.80-53.50万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000061619ac4963a~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQE SUV,6208,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/72df347f87f146c29993c46d938603ec~tplv-resize:640:0.png,2023/1/5
+LEVC,324,纯电,LEVC TX,4779,,33.98-36.98万,暂无报价,33.98万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/0ab4fbed99a45047ef11569679f95caf~tplv-resize:640:0.png,2023/1/5
+摩登汽车,414,纯电,Modern in,4837,,13.98-19.98万,12.58-14.58万,13.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/de69d1f7fbcb1bd1e2d203600286a72b~tplv-resize:640:0.png,2023/1/5
+东风小康,79,纯电,东风小康EC36,475,,12.98万,暂无报价,12.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/822a1a609747067a12188eca055fa04f~tplv-resize:640:0.png,2023/1/5
+恒润汽车,441,纯电,小泰迪,5181,,6.88-8.98万,暂无报价,6.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/603eabe41412ec92229403525a5a4234~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS EV30,3151,2023新款,14.38-15.38万,暂无报价,14.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e9b0db1b997ae80b84d981f309b8de8d~tplv-resize:640:0.png,2023/1/5
+九龙,134,纯电,九龙E6,1830,,9.98万,暂无报价,9.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b130001200eb94997b0~tplv-resize:640:0.png,2023/1/5
+华夏领舰,531,纯电,华夏领舰HX-1,6142,,14.68-23.68万,暂无报价,14.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b24afcc36752ab2e42ee3e56f1f2d2ee~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS MIFA 5,5999,,19.98-23.28万,暂无报价,19.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4f42d5ff30f94ef4c7da101045312782~tplv-resize:640:0.png,2023/1/5
+Faraday Future,229,纯电,FF 91,2785,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000bdf38c0cb1cf~tplv-resize:640:0.png,2023/1/5
+朋克汽车,420,纯电,朋克多多,4944,,4.58-4.98万,2.88-3.98万,4.58万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/be6a91bbd5caff44e4aaca634a6d3b03~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,长安欧尚长行EV,3329,,16.32-16.98万,16.98万,16.32万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e558edf8065636b07b663082af998406~tplv-resize:640:0.png,2023/1/5
+ARCFOX极狐,176,纯电,ARCFOX-7,2014,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17675000018353e0564ac~tplv-resize:640:0.png,2023/1/5
+嘉远汽车,486,纯电,KOMI,5546,,6.96-7.96万,暂无报价,6.96万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8baeb687ac665ff25e5e81c61563c63e~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,纯电,北京EX3,3347,,11.99-16.39万,暂无报价,11.99万,TRUE,11.99-16.39万,3.54,http://p1-dcd.byteimg.com/img/motor-img/8f7efd07d70431529dba2f035bfb6359~tplv-resize:640:0.png,2023/1/5
+国金汽车,191,纯电,骏行,5850,,15.98万,暂无报价,15.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/7572d244ec05df6da9e5cd6279557e93~tplv-resize:640:0.png,2023/1/5
+野马汽车,107,纯电,野马EC60,3003,,16.99万,暂无报价,16.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/2994b6d63d826dff413de1878ef2f367~tplv-resize:640:0.png,2023/1/5
+五菱汽车,39,纯电,五菱电卡,5145,,11.58-13.88万,暂无报价,11.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/680206d0d7edd1a219254f95e5263824~tplv-resize:640:0.png,2023/1/5
+东风,91,纯电,俊风E11K,2983,,15.80-16.80万,暂无报价,15.80万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef400001d3da79c900e~tplv-resize:640:0.png,2023/1/5
+飞凡汽车,401,纯电,飞凡F7,6137,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/01da8c66db475003121443ea94fe003f~tplv-resize:640:0.png,2023/1/5
+天际汽车,250,纯电,天际ME7,3075,,23.88-26.98万,暂无报价,23.88万,TRUE,23.88-26.98万,0,http://p1-dcd.byteimg.com/img/motor-img/dae10ce6e631acebd17a14662ee71d1b~tplv-resize:640:0.png,2023/1/5
+远程汽车,308,纯电,远程星享V,5794,,13.39-16.06万,暂无报价,13.39万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/201d7a16232df54772db4fbf1d02d208~tplv-resize:640:0.png,2023/1/5
+玛莎拉蒂,45,纯电,GranTurismo Folgore,5864,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/baef2fd697ab42bea794be45607b7a6c~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,纯电,北京EU5 PLUS,5102,,12.99-14.99万,12.00-16.00万,12.99万,TRUE,12.99-14.99万,0,http://p1-dcd.byteimg.com/img/motor-img/9179844258a6fc2676f8ee5a47a3c085~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,Nils,2374,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/e1e315d1e04d74ebeba0b9e549071e03~tplv-resize:640:0.png,2023/1/5
+江铃,100,纯电,域虎EV,3210,,31.68-38.38万,暂无报价,31.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c17c8c4df789fd7f0b31838dee3f3c3c~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS MIFA 6,6001,,22.68万,暂无报价,22.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/467dcf446b88415aba07ca739452be78~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,上汽大通MAXUS EV90,4708,2023新款,23.90-35.90万,暂无报价,23.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/ef061fa5661f2c7c259275c203fcd6ee~tplv-resize:640:0.png,2023/1/5
+海马,53,纯电,海马7X-E,5934,,21.98-25.98万,暂无报价,21.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/83764d01c17f4ed726bfa1c8da24270c~tplv-resize:640:0.png,2023/1/5
+宇通客车,172,纯电,宇通T7E,4623,,88.00-116.00万,暂无报价,88.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4bc1edbbefc2f31738454f2270e0d317~tplv-resize:640:0.png,2023/1/5
+开瑞,139,纯电,海豚EV,4154,,15.78-17.58万,暂无报价,15.78万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/0c1239dd3c751242b71841094e65683f~tplv-resize:640:0.png,2023/1/5
+凯翼,142,纯电,炫界Pro EV,5367,,15.66-17.66万,暂无报价,15.66万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/297b50a8f659602e2fd62223e67c0c2a~tplv-resize:640:0.png,2023/1/5
+东风风行,70,纯电,风行S60 EV,5453,,15.99万,暂无报价,15.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c79d1d8bcc01f4d506753193b336fade~tplv-resize:640:0.png,2023/1/5
+东风风行,70,纯电,风行雷霆,5802,即将上市,暂无报价,14.00-22.00万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/208be4380d144330a1968e5c32356d41~tplv-resize:640:0.png,2023/1/5
+MINI,65,纯电,MINI ELECTRIC,1740,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/5314e948db414229a4084012484992df~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQS SUV,5805,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/ce82be81b58e46b89a3e0532c057511c~tplv-resize:640:0.png,2023/1/5
+江铃,100,纯电,特顺EV,3005,,20.60-24.68万,暂无报价,20.60万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef000145914644d5fd~tplv-resize:640:0.png,2023/1/5
+依维柯,90,纯电,依维柯欧胜EV,3718,,23.69-23.99万,暂无报价,23.69万,TRUE,23.69-23.99万,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000fdf33c265bc3~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EC35,1910,,12.88-14.38万,暂无报价,12.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/6b911d7d4df3fc67e1b572f2eda5389e~tplv-resize:640:0.png,2023/1/5
+昶洧,227,纯电,thunder power,2780,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000143f0368c117b~tplv-resize:640:0.png,2023/1/5
+江淮,32,纯电,江淮iEVA50,2311,,14.98-15.58万,暂无报价,14.98万,TRUE,12.98-13.38万,0,http://p1-dcd.byteimg.com/img/motor-img/c85420f90d04489131ae6c51aad6faa2~tplv-resize:640:0.png,2023/1/5
+江铃,100,纯电,凯锐EV,5894,,24.04-27.18万,暂无报价,24.04万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c702a0a980e5bf541c6abd4c425f7657~tplv-resize:640:0.png,2023/1/5
+哪吒汽车,199,纯电,哪吒E-TAKE,1911,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/1767400002cdb9063982a~tplv-resize:640:0.png,2023/1/5
+东风·瑞泰特,230,纯电,东风·瑞泰特EM10,3012,,7.98万,暂无报价,7.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/9b130001225dfd683c72~tplv-resize:640:0.png,2023/1/5
+smart,48,纯电,smart EQ forfour,2055,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/ce26f85891c01346103d2dc0e58d3dcb~tplv-resize:640:0.png,2023/1/5
+东风富康,373,纯电,富康ES600,5580,,15.38-16.38万,暂无报价,15.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9d0422fde61435579a20862d9847eecf~tplv-resize:640:0.png,2023/1/5
+江铃,100,纯电,顺达EV,5233,,19.28-31.98万,暂无报价,19.28万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/a16872d547957b28d196f936b12c219c~tplv-resize:640:0.png,2023/1/5
+东风,91,纯电,御风EV,427,,18.80-48.00万,暂无报价,18.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/848e60c12f79839bc51011988bef4c3b~tplv-resize:640:0.png,2023/1/5
+福田,57,纯电,大将军EV皮卡,5808,,29.23-41.31万,暂无报价,29.23万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/44742b993fe0660030c7c0958a5540c9~tplv-resize:640:0.png,2023/1/5
+橙仕,421,纯电,橙仕X2,5822,,5.98-6.40万,暂无报价,5.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/b7ef68707863f9bff89e426f594d69c4~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,大众XL1,2353,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002a64703d70db~tplv-resize:640:0.png,2023/1/5
+东风,91,纯电,锐骐6 EV,3713,,26.98-27.58万,29.98万,26.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/14ff833009f4fc035e78f9a4d82362fb~tplv-resize:640:0.png,2023/1/5
+国机智骏,266,纯电,国机智骏GC2,3410,,6.58-8.18万,7.48-9.08万,6.58万,TRUE,6.58-8.18万,0,http://p1-dcd.byteimg.com/img/motor-img/ede9f9bb9abfee8fa5edc40e0113712c~tplv-resize:640:0.png,2023/1/5
+野马汽车,107,纯电,斯派卡EV,4465,,14.99-16.99万,暂无报价,14.99万,TRUE,14.99-16.99万,0,http://p9-dcd.byteimg.com/img/motor-img/2429e897feec01509cab30e2c1b9154b~tplv-resize:640:0.png,2023/1/5
+东风风光,95,纯电,德先T8,6274,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/c411147c0caa4fcfbfacf07b130cc4d6~tplv-resize:640:0.png,2023/1/5
+华晨新日,413,纯电,华晨新日i03A,5407,微型轿车销量NO.18,8.58-12.50万,暂无报价,8.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/76b290a10547a7aa87424d1f5e02ef78~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,睿行EM80,2972,,13.58-15.98万,暂无报价,13.58万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef100009958556a14cb~tplv-resize:640:0.png,2023/1/5
+九龙,134,纯电,九龙EM3,3090,,8.58-10.18万,暂无报价,8.58万,TRUE,8.58-10.18万,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800003ba46fbdebb1~tplv-resize:640:0.png,2023/1/5
+小鹏汽车,195,纯电,小鹏BETA版,1776,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef700002ccb4e2d9bce~tplv-resize:640:0.png,2023/1/5
+北汽昌河,60,纯电,北汽EV5,2858,,10.38-11.38万,暂无报价,10.38万,TRUE,10.38-11.38万,0,http://p1-dcd.byteimg.com/img/motor-img/f49e241532567e75a0dca881994522a9~tplv-resize:640:0.png,2023/1/5
+欧拉,238,纯电,欧拉,2303,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef600002eda814f7a18~tplv-resize:640:0.png,2023/1/5
+容大智造,244,纯电,迈图,2966,,6.90-8.90万,暂无报价,6.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000000e44d246eb~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,Vision Tokyo,2173,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c37c41c02bbc7b87cfc840bd601e2881~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,长安之星9 EV,3022,,13.18-14.58万,暂无报价,13.18万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000a6ab8f8f8c29~tplv-resize:640:0.png,2023/1/5
+福田,57,纯电,风景G7新能源,5247,,16.18-22.98万,暂无报价,16.18万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9363200b0798f18e95c57947cf80ce41~tplv-resize:640:0.png,2023/1/5
+名爵,34,纯电,名爵E-motion,2232,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b0b69508bc70bea11e449165265c1040~tplv-resize:640:0.png,2023/1/5
+东风风光,95,纯电,风光E380,6230,,14.48-15.98万,暂无报价,14.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/2cc137ddf57141afa9ea6573f74a4ce2~tplv-resize:640:0.png,2023/1/5
+敏安汽车,356,纯电,敏微ET1,6093,,3.98万,暂无报价,3.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/48936f647bea8db7bf882ee95c97428d~tplv-resize:640:0.png,2023/1/5
+国机智骏,266,纯电,国机智骏GC1,3409,,7.38-8.38万,7.88-9.38万,7.38万,TRUE,7.38-8.38万,0,http://p3-dcd.byteimg.com/img/motor-img/1fc424ba1769179dc31bbfc7bd24c272~tplv-resize:640:0.png,2023/1/5
+江铃,100,纯电,E路顺,6180,,14.66-16.08万,暂无报价,14.66万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/2ac69acad9364e3e90bba9a6980ce4fa~tplv-resize:640:0.png,2023/1/5
+五十铃,106,纯电,瑞迈EV,3140,,29.98万,暂无报价,29.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000c8b6a7f337b8~tplv-resize:640:0.png,2023/1/5
+远程汽车,308,纯电,远程E5,3766,,13.36-14.26万,暂无报价,13.36万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/28ad6c0ccd1ad0b962285d49668eb55c~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,睿行EM60,4205,,13.58-14.08万,暂无报价,13.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d52bf915d67b594d20e5757cf8445077~tplv-resize:640:0.png,2023/1/5
+睿蓝汽车,381,纯电,枫叶80v PRO,6178,,16.28-17.88万,暂无报价,16.28万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/116ca0b29c63421eaee093b159fafbaf~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪PB18,2994,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000001142cfde14b~tplv-resize:640:0.png,2023/1/5
+开瑞,139,纯电,优优EV,2257,,13.08万,暂无报价,13.08万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef00009af087aa6cce~tplv-resize:640:0.png,2023/1/5
+安凯客车,115,纯电,安凯Q5,6028,,33.60-34.60万,暂无报价,33.60万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d5e385ed2ea461fe5715ea76d4058541~tplv-resize:640:0.png,2023/1/5
+福田,57,纯电,智蓝精灵,5964,,14.88-16.88万,暂无报价,14.88万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/0391bd60a997fe3576ba7a5533d08503~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,纯电,北京EX5,3158,,16.99-19.99万,暂无报价,16.99万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/ea816a2efab35d3d9c242e876757c4ac~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,比亚迪E-SEED,2876,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef50000c5f683a1d2b3~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQA(海外),5107,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a42d4712d70fa84b5277a1b5043d40ae~tplv-resize:640:0.png,2023/1/5
+长安跨越,210,纯电,跨越星V5 EV,5299,,14.68万,暂无报价,14.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/07e41bc9e56e5ef28ea033f381bbbb6d~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,纯电,比亚迪T3,2110,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000141179cac1d4b~tplv-resize:640:0.png,2023/1/5
+国新新能源,506,纯电,翼刻ET300,5792,,9.98万,暂无报价,9.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a5f493c83999d487023cc1d77c0e72ea~tplv-resize:640:0.png,2023/1/5
+云度,188,纯电,云度π3,1714,,11.98-13.98万,暂无报价,11.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d36fbeed762d384c1b90690bc00149df~tplv-resize:640:0.png,2023/1/5
+金杯新能源,516,纯电,新海狮 EV,5957,2023新款,13.28-13.52万,暂无报价,13.28万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/dbe0c85aea30c77fcd58cded1eab90ca~tplv-resize:640:0.png,2023/1/5
+远程汽车,308,纯电,远程E6,3767,,16.88-17.58万,暂无报价,16.88万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/176740000550fed2cdeeb~tplv-resize:640:0.png,2023/1/5
+安凯客车,115,纯电,安凯快乐运,6017,,14.28万,暂无报价,14.28万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/18a0e977a7685750c9d740d65c4b5679~tplv-resize:640:0.png,2023/1/5
+保时捷,20,纯电,Mission E,2126,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/d1ced4957cb30b0388cc79fb85ec0d7c~tplv-resize:640:0.png,2023/1/5
+北汽新能源,93,纯电,北汽新能源D80 EV,2097,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006aa291f42611~tplv-resize:640:0.png,2023/1/5
+飞碟汽车,404,纯电,飞碟Q2V,4744,,13.50万,暂无报价,13.50万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/0b907019d081cd107dc8d5d5c658fb58~tplv-resize:640:0.png,2023/1/5
+长安跨越,210,纯电,跨越星V7 EV,6090,,15.38-16.28万,暂无报价,15.38万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/a2b087f6650e50da5e53307d4018f80d~tplv-resize:640:0.png,2023/1/5
+东风风神,37,纯电,东风风神e.π,2856,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef40000f5aea1599edb~tplv-resize:640:0.png,2023/1/5
+开瑞,139,纯电,江豚,5855,,13.38-14.68万,暂无报价,13.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/67d72edf302280a0e19b953021cac3cc~tplv-resize:640:0.png,2023/1/5
+福田,57,纯电,拓陆者智蓝,3645,,29.80-31.80万,暂无报价,29.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000dbd2dad65f79~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,宝马iX3(海外),2874,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8059ddfdc1bbce4b6f9cffcb09f18c74~tplv-resize:640:0.png,2023/1/5
+国机智骏,266,纯电,国机智骏GX5,3408,,11.58-13.98万,12.58-14.98万,11.58万,TRUE,11.58-13.98万,0,http://p1-dcd.byteimg.com/img/motor-img/d82d94ee62b66a881f61ae95ad0544d3~tplv-resize:640:0.png,2023/1/5
+荣威,36,纯电,Vision-E,2068,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7bf44b8be186cab07747141c2252be6a~tplv-resize:640:0.png,2023/1/5
+福田,57,纯电,图雅诺新能源,1826,,26.28-31.98万,暂无报价,26.28万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7ed8bed189545b1fd4fc832c49ded254~tplv-resize:640:0.png,2023/1/5
+国吉商用车,559,纯电,大象G40,6310,全新车系,12.88-13.18万,暂无报价,12.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/16fb2632875c485eb804ea7bb15c7b44~tplv-resize:640:0.png,2023/1/5
+长城,8,纯电,风骏7 EV,4139,,暂无报价,25.68-26.68万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/61541616bc445e94d72af661cacda958~tplv-resize:640:0.png,2023/1/5
+东南,77,纯电,SEM DELICA,5994,,24.18-24.88万,暂无报价,24.18万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4b177d5b60fe052821a25e92279a32eb~tplv-resize:640:0.png,2023/1/5
+金龙,140,纯电,龙耀8,4562,,15.97-26.87万,暂无报价,15.97万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/573090d5ab4d8bf95e95a39ddba94321~tplv-resize:640:0.png,2023/1/5
+飞碟汽车,404,纯电,缔途EF3,6192,,16.80万,暂无报价,16.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/66d1c089873444af98a24a2adbe4c3b9~tplv-resize:640:0.png,2023/1/5
+成功汽车,120,纯电,骆驼微卡,6326,全新车系,12.98万,暂无报价,12.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/39765c5c0fd14781ba76a5106378c3c9~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,新海狮EV,1772,,14.48-14.68万,暂无报价,14.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/0a74400a76f63118d3640c7b6367eeb0~tplv-resize:640:0.png,2023/1/5
+金旅,133,纯电,金旅海狮EV,1838,,12.58-26.98万,暂无报价,12.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef00009ad3a55bf057~tplv-resize:640:0.png,2023/1/5
+东风富康,373,纯电,富康ES500,3076,,14.18万,暂无报价,14.18万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000098390fb9d847~tplv-resize:640:0.png,2023/1/5
+蔚来,112,纯电,蔚来EVE,2077,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000cf3311c0c2d2~tplv-resize:640:0.png,2023/1/5
+起亚,13,纯电,Ray EV,2951,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006aceda5386ea~tplv-resize:640:0.png,2023/1/5
+北汽幻速,94,纯电,北汽幻速S5-EV,2092,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e2064952667c0bc19132048509065b46~tplv-resize:640:0.png,2023/1/5
+smart,48,纯电,smart Vision EQ fortwo,1744,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef700002ea9f359c847~tplv-resize:640:0.png,2023/1/5
+广汽传祺,40,纯电,Enverge,1948,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7869e8e2fd66be27546a9a265b9e3121~tplv-resize:640:0.png,2023/1/5
+容大智造,244,纯电,迈乔,4171,,8.98万,暂无报价,8.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/59834aef05ec32087b60a3406eaf0e5f~tplv-resize:640:0.png,2023/1/5
+江淮,32,纯电,江淮iEV7E,1817,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000033efa1d5983~tplv-resize:640:0.png,2023/1/5
+一汽,67,纯电,佳宝V80 EV,3133,,11.98-13.68万,暂无报价,11.98万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef00000866ae7a18838~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EC31,3132,,11.68-14.58万,暂无报价,11.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/07d8319ed183c96b0765abd15797b3ef~tplv-resize:640:0.png,2023/1/5
+开沃汽车,148,纯电,开沃D07创业者,1921,,10.48-10.88万,暂无报价,10.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/76fde65ffaf4b6ad8612df646ff6e004~tplv-resize:640:0.png,2023/1/5
+新吉奥汽车,477,纯电,吉奥帅凌,5910,,15.09-15.89万,暂无报价,15.09万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/51ad5683f45b74ba5525546561f652d2~tplv-resize:640:0.png,2023/1/5
+东风风神,37,纯电,东风风神AX5 EV,1841,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef500006f62a1208d19~tplv-resize:640:0.png,2023/1/5
+恒润汽车,441,纯电,恒润H23,6202,,13.98万,暂无报价,13.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/12a5ec9bbbfc4e9ab99355c81263fed3~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,长安星卡EV,3015,,11.98-12.28万,暂无报价,11.98万,TRUE,11.98-12.28万,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef400001d2a41831f3b~tplv-resize:640:0.png,2023/1/5
+银隆新能源,302,纯电,银隆5024 EV,3898,,11.00万,暂无报价,11.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b20125736888150ccbae8f560c6e594b~tplv-resize:640:0.png,2023/1/5
+宾利,47,纯电,EXP 12 Speed 6e,1998,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef700006aa0df09ea45~tplv-resize:640:0.png,2023/1/5
+睿蓝汽车,381,纯电,枫叶60s PRO,6177,,13.98万,暂无报价,13.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/13e077d770ea463b8e316d39b5cd86b2~tplv-resize:640:0.png,2023/1/5
+成功汽车,120,纯电,骆驼,6191,,12.98-13.48万,暂无报价,12.98万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/93a66f720b4e49158c70d84c38a9cfa4~tplv-resize:640:0.png,2023/1/5
+雷丁,282,纯电,芒果MAX,5930,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d24d81bcb860f0afc5c8e101601812e9~tplv-resize:640:0.png,2023/1/5
+宾尼法利纳,219,纯电,H2 Speed,2737,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/176750000147bc9e20ae1~tplv-resize:640:0.png,2023/1/5
+日产,10,纯电,聆风,1716,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7c1f9a1b3479068b92de187859767ff4~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EC55,5863,,14.38-14.98万,暂无报价,14.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8fe32e6e097a47598d3b03107a23dccf~tplv-resize:640:0.png,2023/1/5
+远程汽车,308,纯电,远程锋锐F3E,5372,,17.58-18.70万,暂无报价,17.58万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/30a4b097eeacd8bbcd8eb555088ffe76~tplv-resize:640:0.png,2023/1/5
+奇瑞,18,纯电,奇瑞@ANT,2550,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006c0adc640396~tplv-resize:640:0.png,2023/1/5
+前途,149,纯电,前途Concept 1,2838,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17675000068f256077474~tplv-resize:640:0.png,2023/1/5
+三菱,26,纯电,e-EVOLUTION,1947,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/2e494e4ec93a3664e5efb6061b3601ef~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,小海狮 EV,4293,,13.58万,暂无报价,13.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7df239b6a9abc510dcb8cd2fdcc30692~tplv-resize:640:0.png,2023/1/5
+长安欧尚,119,纯电,OSHAN,2895,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800002be0a365b93e~tplv-resize:640:0.png,2023/1/5
+长安跨越,210,纯电,跨越王X3 EV,6244,,17.98-18.68万,暂无报价,17.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/ae4a52af0c3a4ce48a166abb5888c562~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,奔驰EQC(海外),3011,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef200009811458e92c4~tplv-resize:640:0.png,2023/1/5
+北汽制造,78,纯电,北汽小河马,4723,,10.78-11.08万,暂无报价,10.78万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/4c379786112490c7a01a77d92e234f85~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,EQ Silver Arrow,2998,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000f7ded78d36f8~tplv-resize:640:0.png,2023/1/5
+DS,55,纯电,E-Tense,2031,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/2f77d90782123569cd87ba1da12d27d7~tplv-resize:640:0.png,2023/1/5
+游侠,208,纯电,游侠 X,1935,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/21fc490f1c51b032c315ae39e842519e~tplv-resize:640:0.png,2023/1/5
+艾康尼克,178,纯电,艾康尼克七系,2770,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef20000cf6c3266bfc5~tplv-resize:640:0.png,2023/1/5
+江铃集团新能源,136,纯电,易至EX5,1587,,12.58-13.28万,暂无报价,12.58万,TRUE,12.58-13.28万,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17675000005bb087cc43b~tplv-resize:640:0.png,2023/1/5
+英菲尼迪,29,纯电,Emerg-E,2451,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/935bacb657b73baecf6650c6cc8a53a1~tplv-resize:640:0.png,2023/1/5
+三菱,26,纯电,三菱i,2299,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef50000970dff15a426~tplv-resize:640:0.png,2023/1/5
+长安跨越,210,纯电,跨越王X1 EV,5229,,12.88-13.22万,暂无报价,12.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4e0ac710181f921d27eeddbee3b426cd~tplv-resize:640:0.png,2023/1/5
+飞碟汽车,404,纯电,飞碟Q2T,4733,,12.80-13.80万,11.28万,12.80万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/e640dd0c4fbc921a9f367fc0cc29e6e4~tplv-resize:640:0.png,2023/1/5
+陕汽通家,153,纯电,电牛2号,5465,,11.88万,暂无报价,11.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4da8caa49621e000afd4282f65bd437d~tplv-resize:640:0.png,2023/1/5
+刺猬汽车,233,纯电,思迈尔,2839,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700002cf6e065c05f~tplv-resize:640:0.png,2023/1/5
+东风风神,37,纯电,风诺,2129,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800001b4d5161fc4d~tplv-resize:640:0.png,2023/1/5
+金龙,140,纯电,龙耀6,5790,,14.41-14.97万,暂无报价,14.41万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/14ee3d78d3ba94e6432d9be829eceb14~tplv-resize:640:0.png,2023/1/5
+奇瑞,18,纯电,奇瑞FV2030,2237,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef3000143caca22af05~tplv-resize:640:0.png,2023/1/5
+海格,125,纯电,海格H6V,660,,70.80万,暂无报价,70.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000122561857cc77~tplv-resize:640:0.png,2023/1/5
+广汽集团,237,纯电,E-more概念车,2878,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17675000064c57a5573b2~tplv-resize:640:0.png,2023/1/5
+雪佛兰,6,纯电,雪佛兰EN-V,2265,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/17675000068eb3a6c78eb~tplv-resize:640:0.png,2023/1/5
+日产,10,纯电,日产e-NV200(海外),2713,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef1000088788c12c428~tplv-resize:640:0.png,2023/1/5
+北汽新能源,93,纯电,北汽新能源ET400,1967,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef8000066dc7a0e9167~tplv-resize:640:0.png,2023/1/5
+拜腾,204,纯电,BYTON M-Byte,1927,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef2000147345dffe60c~tplv-resize:640:0.png,2023/1/5
+长安凯程,171,纯电,神骐T10 EV,4221,,15.48-15.98万,暂无报价,15.48万,TRUE,12.88-13.48万,0,http://p1-dcd.byteimg.com/img/motor-img/3ffd7a27a2f63d5b03506eec0c9a237c~tplv-resize:640:0.png,2023/1/5
+东风风行,70,纯电,风行T1 EV,3399,,暂无报价,7.58万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/5e8a9ae23b6efed51f6570d63016d3ae~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,好运1号,1771,2022新款,13.88-14.58万,暂无报价,13.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/bce97a58ad16bba1c6ac30c24643c9ab~tplv-resize:640:0.png,2023/1/5
+新龙马汽车,123,纯电,新龙马汽车启腾EX7,4806,,16.68-16.98万,暂无报价,16.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/87eda9f29b6f0b18c61a9262bba50406~tplv-resize:640:0.png,2023/1/5
+魏牌,66,纯电,魏牌-X,2852,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000100e94a3d3843~tplv-resize:640:0.png,2023/1/5
+远程汽车,308,纯电,远程锋锐V5E,6256,,19.48万,暂无报价,19.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/3c038cbaf6ef4c5890b63f8104965c64~tplv-resize:640:0.png,2023/1/5
+雪佛兰,6,纯电,Chaparral 2X Vision,2579,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000967e1f83bdc5~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,GR Super Sport,1951,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000143d2fd6b7852~tplv-resize:640:0.png,2023/1/5
+广汽传祺,40,纯电,iSPACE,1803,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800002d72c7d4d943~tplv-resize:640:0.png,2023/1/5
+陆地方舟,146,纯电,威途X35,1630,,19.00万,暂无报价,19.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/65de000108d8e451b89d~tplv-resize:640:0.png,2023/1/5
+哪吒汽车,199,纯电,哪吒Eureka 01,2988,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17674000015a6b8be5e9b~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,VISION NEXT 100,2065,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef600002cfa0d355acd~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,ID. Vizzion,2720,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000f970de7cc64b~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,T50 EV,4301,,18.48-19.08万,暂无报价,18.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b1ef0b41ffe841ff662134e7d69af50f~tplv-resize:640:0.png,2023/1/5
+东风,91,纯电,俊风EJ30,2772,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/65de00004a7f001da650~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,Cross Coupe,1946,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400002cdcdc677d52~tplv-resize:640:0.png,2023/1/5
+开沃汽车,148,纯电,开沃D10,1924,,14.88-17.88万,暂无报价,14.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000a6fd671bc69d~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,T2S EV,5410,,16.48-16.78万,暂无报价,16.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/af66731530790a593374e0897d89ef77~tplv-resize:640:0.png,2023/1/5
+广汽传祺,40,纯电,E Concept,1819,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000034e37855613c~tplv-resize:640:0.png,2023/1/5
+Rimac,213,纯电,Nevera,5192,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/de5a40d0a6f1abc608e5db57dbefc6c6~tplv-resize:640:0.png,2023/1/5
+SERES赛力斯,231,纯电,SERES SF7,2985,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300004e6b96b92062~tplv-resize:640:0.png,2023/1/5
+雷诺,46,纯电,雷诺ZOE,2572,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800006b270b0c9431~tplv-resize:640:0.png,2023/1/5
+智行盒子,484,纯电,智行盒子BM-400,5522,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/932ec03328540f037bff972e5ef4c0ec~tplv-resize:640:0.png,2023/1/5
+日产,10,纯电,日产IDS,2246,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef8000017018474b21e~tplv-resize:640:0.png,2023/1/5
+神州,396,纯电,航天金龙,4641,,14.88万,暂无报价,14.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/5c58db7a23d8d9b291b97f43b6915aba~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EK07S,4685,,12.68万,暂无报价,12.68万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/d6cdfa4e57eee26eac73171f7ca1acf3~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,Sedric Concept,2053,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef300013c89dfa61ea4~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EK01S,5226,,10.68-12.88万,暂无报价,10.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/dfee8a5d687845bd38737b0773d165f0~tplv-resize:640:0.png,2023/1/5
+开瑞,139,纯电,优劲EV,2922,,12.28-13.58万,暂无报价,12.28万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/1a91e12b9dc61f1f6622339bd0e81257~tplv-resize:640:0.png,2023/1/5
+现代,11,纯电,KONA EV,2708,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/738ef39b906c67fda248e6c0c0415dd0~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,EV-Ster,2454,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000e664d53dbedc~tplv-resize:640:0.png,2023/1/5
+新吉奥汽车,477,纯电,吉奥奥腾,6032,,18.18-20.58万,暂无报价,18.18万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c252fe6baf2d15b7039e0f2fdd9a0490~tplv-resize:640:0.png,2023/1/5
+雪佛兰,6,纯电,雪佛兰FNR,2267,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/65de00000d1280e22de6~tplv-resize:640:0.png,2023/1/5
+万象汽车,528,纯电,万象K01,6074,,12.38-12.58万,暂无报价,12.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/1c8421ba8d05cc3eb56da0b3ab54433e~tplv-resize:640:0.png,2023/1/5
+御捷,173,纯电,御捷330,2268,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a5083bf9b65~tplv-resize:640:0.png,2023/1/5
+现代,11,纯电,Nexo,1956,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/1767500005ad00811f0ef~tplv-resize:640:0.png,2023/1/5
+威马汽车,185,纯电,Commendatore GT,2888,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef30000777fb88b7216~tplv-resize:640:0.png,2023/1/5
+绿驰,212,纯电,金星,2704,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef500008ee73fd4c5c5~tplv-resize:640:0.png,2023/1/5
+陆地方舟,146,纯电,劲玛,2689,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef000013ffb176ae1e2~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,奥迪Elaine,1741,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000004a45a9ecf60~tplv-resize:640:0.png,2023/1/5
+英菲尼迪,29,纯电,Prototype 10,2997,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006c0f13619b45~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰ED71,5862,,18.68-21.58万,暂无报价,18.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/678f7c22a385ef41f536d1cf9aa13e3f~tplv-resize:640:0.png,2023/1/5
+比克汽车,411,纯电,比克兴熠,4800,,16.98万,暂无报价,16.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d2bc3f77dc23ce7e0914eaaebde21d3b~tplv-resize:640:0.png,2023/1/5
+恒天,127,纯电,恒好EV1,3135,,11.37万,暂无报价,11.37万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000dc40cdd0e4e7~tplv-resize:640:0.png,2023/1/5
+拉共达,214,纯电,Lagonda Vision Concept,2719,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef400011ab509a347e8~tplv-resize:640:0.png,2023/1/5
+Rimac,213,纯电,Concept Two,2710,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17674000034101a76f6fb~tplv-resize:640:0.png,2023/1/5
+MINI,65,纯电,MINI VISION Next100,2044,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/1d0aa496d2a2612dba3c429c2c3434a3~tplv-resize:640:0.png,2023/1/5
+北汽新能源,93,纯电,ARCFOX-1,2013,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9e60a6543929a35ee3dedd77e5297b62~tplv-resize:640:0.png,2023/1/5
+北汽新能源,93,纯电,北汽新能源EX400L,2103,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800003bc21ce6d0ec~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,Honda Design C 001,1952,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/95cca982f4a10bd3053f8c6cf74dc663~tplv-resize:640:0.png,2023/1/5
+宝马,4,纯电,i Vision Dynamics,1732,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000df1a5cd420cf~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,大众MOIA,2721,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef8000066ef73e488f5~tplv-resize:640:0.png,2023/1/5
+奥迪,2,纯电,e-tron Concept,2312,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef30001410a0b02a5cb~tplv-resize:640:0.png,2023/1/5
+北京清行,240,纯电,清行400,2929,,暂无报价,15.58-15.98万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef00009aef9f6195cd~tplv-resize:640:0.png,2023/1/5
+猎豹汽车,76,纯电,缤歌,2872,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000106f9e91ba1ab~tplv-resize:640:0.png,2023/1/5
+东风·瑞泰特,230,纯电,东风·瑞泰特EM30,2796,,25.98万,暂无报价,25.98万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef300009836014ad858~tplv-resize:640:0.png,2023/1/5
+万象汽车,528,纯电,万象T01,6084,,13.58万,暂无报价,13.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/52d90253f625b35ff95ced92c81ec67f~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,i-Road,2473,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800006b25db6fa00b~tplv-resize:640:0.png,2023/1/5
+别克,12,纯电,Enspire,2822,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400003b705b7f8e12~tplv-resize:640:0.png,2023/1/5
+奔驰,3,纯电,Generation EQ,1761,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000f7695739975f~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,本田Urban EV,1743,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000bf9ca2859347~tplv-resize:640:0.png,2023/1/5
+海马,53,纯电,福美来E7,2863,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000046f2ee62fc34~tplv-resize:640:0.png,2023/1/5
+雪铁龙,21,纯电,C-Zero,2361,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/3068f9df284661c24606cffe02141fad~tplv-resize:640:0.png,2023/1/5
+华凯,128,纯电,华凯新能源,6143,,14.68-15.68万,暂无报价,14.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/479abfd3ff9b06cf02cc1a43a3d80a6e~tplv-resize:640:0.png,2023/1/5
+海马,53,纯电,海马E5,2865,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000066b57bc8100d~tplv-resize:640:0.png,2023/1/5
+奇点汽车,225,纯电,奇点T2,2903,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17675000031a6c1485e40~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,纯电,360c Concept,3013,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef60000145f8985feeb~tplv-resize:640:0.png,2023/1/5
+新龙马汽车,123,纯电,新龙马汽车启腾M70 EV,1739,,14.48-14.96万,暂无报价,14.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000098439d18fa56~tplv-resize:640:0.png,2023/1/5
+斯达泰克,156,纯电,斯达泰克-Model Y,6329,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/6f0706c145d140caa905e931c136ab9b~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,Sports EV Concept,1960,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000141e2225cb3cb~tplv-resize:640:0.png,2023/1/5
+黄海,132,纯电,瑞途EV,4786,,25.98万,暂无报价,25.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/35a18e4d5245275e336438a11df7dc37~tplv-resize:640:0.png,2023/1/5
+长江·EV,180,纯电,逸酷,2783,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/527ffa8d89cd4b20e94709637429ae71~tplv-resize:640:0.png,2023/1/5
+塔塔,216,纯电,EVision,2724,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef00007d81bacc92a0~tplv-resize:640:0.png,2023/1/5
+御捷,173,纯电,捷顺,2209,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c5e441e200a1~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,ID.概念车,2118,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef2000145da874d130b~tplv-resize:640:0.png,2023/1/5
+九龙,134,纯电,九龙EW5,5261,,18.88万,暂无报价,18.88万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e349fe90dfecb8cb22703853eebd1e7c~tplv-resize:640:0.png,2023/1/5
+大众,1,纯电,e-Co-Motion,2450,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef10001437dfe87fe21~tplv-resize:640:0.png,2023/1/5
+申龙客车,454,纯电,申龙DST神州5号,5320,,12.38万,暂无报价,12.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/3624ffe2227c02b2e5990d6192d00e82~tplv-resize:640:0.png,2023/1/5
+宏远汽车,418,纯电,宏远EM60,4856,,13.58万,暂无报价,13.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e1bfb3ef22799b3c4707cb39bf3a0b0a~tplv-resize:640:0.png,2023/1/5
+新龙马汽车,123,纯电,新龙马汽车启腾N50 EV,4774,,15.26-18.38万,暂无报价,15.26万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c4e95daea01dfb20dd8514cd96faf19c~tplv-resize:640:0.png,2023/1/5
+日产,10,纯电,日产IMx,1985,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/176750000396addf451ae~tplv-resize:640:0.png,2023/1/5
+铃木,50,纯电,e-Survivor,1949,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000c9e9ebc56449~tplv-resize:640:0.png,2023/1/5
+神州,396,纯电,DST神州5号,4785,,10.68万,暂无报价,10.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/3624ffe2227c02b2e5990d6192d00e82~tplv-resize:640:0.png,2023/1/5
+国新新能源,506,纯电,翼刻信,6275,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/a0bf0270b93a4c1ba20b48b3dc5c3ef0~tplv-resize:640:0.png,2023/1/5
+长江·EV,180,纯电,长江B级概念车,2893,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef80000189a3746e097~tplv-resize:640:0.png,2023/1/5
+本田,9,纯电,NeuV,2047,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700002e9e2869a07b~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,Fine-Comfort Ride,1950,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef600001a9c50332eb6~tplv-resize:640:0.png,2023/1/5
+开沃汽车,148,纯电,开沃D11 EV,1828,,24.98万,暂无报价,24.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef20000d7c1c4d6dff6~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EC71,5270,,16.38-17.08万,暂无报价,16.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/06c58201a89065c88625b7eb0da36004~tplv-resize:640:0.png,2023/1/5
+金旅,133,纯电,领特EV,4660,,26.80万,暂无报价,26.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/385fc50502ff89ac0ef8b1a22808d169~tplv-resize:640:0.png,2023/1/5
+恒天,127,纯电,恒好EV7,3136,,11.46万,暂无报价,11.46万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500000f38c2db9c4f~tplv-resize:640:0.png,2023/1/5
+福特,7,纯电,Airstream,2540,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a51eed0815c~tplv-resize:640:0.png,2023/1/5
+摩根,147,纯电,摩根EV3,1651,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef60000145a45774b19~tplv-resize:640:0.png,2023/1/5
+英菲尼迪,29,纯电,英菲尼迪LE,2934,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef500005959678f714c~tplv-resize:640:0.png,2023/1/5
+江淮,32,纯电,LSEV,2896,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000143f7bc4c1560~tplv-resize:640:0.png,2023/1/5
+NEVS国能汽车,200,纯电,NEVS 93,1912,,暂无报价,16.98万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef000011821ae834386~tplv-resize:640:0.png,2023/1/5
+北汽瑞翔,444,纯电,北汽瑞翔V2 EV,5906,,14.48-14.98万,暂无报价,14.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/153c054ef69500aa1898c309b1171953~tplv-resize:640:0.png,2023/1/5
+思皓,235,纯电,思皓爱跑S,5396,即将上市,暂无报价,20.99-25.99万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4bad936a681794e86a6cc5cecd02c843~tplv-resize:640:0.png,2023/1/5
+开沃汽车,148,纯电,开沃D07L,6133,,12.18万,暂无报价,12.18万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/bfd5a16b04421878dadecedaecc8c009~tplv-resize:640:0.png,2023/1/5
+新吉奥汽车,477,纯电,吉奥帅舰,6030,,17.58-17.88万,暂无报价,17.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a9bec7448da75c5641aaab89e1705543~tplv-resize:640:0.png,2023/1/5
+AEV ROBOTICS,256,纯电,Modular Vehicle System,3160,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/80ac66336d78be9c446b310dc972270f~tplv-resize:640:0.png,2023/1/5
+Cupra,341,纯电,e-Racer,2706,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/88b4da81b52020200a501fc4a66e5338~tplv-resize:640:0.png,2023/1/5
+三菱,26,纯电,三菱eX,2260,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/3d4665154f03c643377a7aa97b95ae3b~tplv-resize:640:0.png,2023/1/5
+Fisker,205,纯电,EMotion,2918,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef80000671fa625d1cf~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,纯电,TARANTULA,2886,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/176760000159d640a0ad4~tplv-resize:640:0.png,2023/1/5
+奇点汽车,225,纯电,奇点iS6,2776,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef400000bb9e608fb30~tplv-resize:640:0.png,2023/1/5
+中兴,169,纯电,小老虎EV,2242,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef600002cfde056c92b~tplv-resize:640:0.png,2023/1/5
+现代,11,纯电,FE Fuel Cell,2003,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/6944f0af675b9c0c8d14865331012d3e~tplv-resize:640:0.png,2023/1/5
+悠宝利,540,纯电,悠宝利A3,6207,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/b485c19d6a584d1da9560b46fcd67e91~tplv-resize:640:0.png,2023/1/5
+申龙客车,454,纯电,申龙地上铁510,6072,,13.58万,暂无报价,13.58万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/d662249684f780725fedfe826c3c3755~tplv-resize:640:0.png,2023/1/5
+瑞驰,198,纯电,瑞驰EC72,5354,,17.08万,暂无报价,17.08万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/fa4662b06ab19c2bd979e224a3936301~tplv-resize:640:0.png,2023/1/5
+日产,10,纯电,Esflow,2364,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800002ed7477775f3~tplv-resize:640:0.png,2023/1/5
+观致,58,纯电,Model K-EV,2045,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400005c8280a9c9e2~tplv-resize:640:0.png,2023/1/5
+华凯,128,纯电,华凯新能源VE06,6170,,12.36-13.26万,暂无报价,12.36万,TRUE,11.46-12.36万,0,http://p1-dcd.byteimg.com/img/motor-img/4253ae67ac37f4df76bfa9f0251d7b2a~tplv-resize:640:0.png,2023/1/5
+NEVS国能汽车,200,纯电,NEVS 9-3X,2915,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/47470000b4585d6492e2~tplv-resize:640:0.png,2023/1/5
+长江·EV,180,纯电,长江C级概念车,2892,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/176740000667114b0cbaa~tplv-resize:640:0.png,2023/1/5
+观致,58,纯电,观致MILE 1,2877,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000067f308640f7e~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,纯电,OffSpace SUIT,2914,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002c58d5bc17d7~tplv-resize:640:0.png,2023/1/5
+三菱,26,纯电,三菱CA-MiEV,2563,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000004d99c62c5fb~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田FCV,2286,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/47480000728a79ec335e~tplv-resize:640:0.png,2023/1/5
+克莱斯勒,84,纯电,Portal,2049,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/cd77da9a17dd156489f504079719bdde~tplv-resize:640:0.png,2023/1/5
+标致,61,纯电,Instinct,2007,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400000039795cff3b~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,Wonder-Capsule,1966,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/0815c4e8082f683d1abd65483928af69~tplv-resize:640:0.png,2023/1/5
+华泰新能源,99,纯电,路盛E70 EV,1837,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/88830000b2db654ab6a2~tplv-resize:640:0.png,2023/1/5
+雷诺,46,纯电,TREZOR,2061,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/176750000616a7fc03afb~tplv-resize:640:0.png,2023/1/5
+中兴,169,纯电,未奥BOMA,6277,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,,2023/1/5
+新特汽车,234,纯电,MEV100,4158,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/2c1f59f187a80c15abfcd6d6d80d271e~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,ME.WE,2395,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400003418644e528a~tplv-resize:640:0.png,2023/1/5
+北汽新能源,93,纯电,EX概念车,2191,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/0e540e76f50500ea75a77a8deb7acd0f~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田LQ,2021,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8756d17b1b937a241c0ffdc13b41d721~tplv-resize:640:0.png,2023/1/5
+卡威,138,纯电,卡威E20,1974,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef800002ef0fe396653~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,CONCEPT-爱i Ride,1944,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/176760000112eb4f74c75~tplv-resize:640:0.png,2023/1/5
+长江·EV,180,纯电,长江SUV概念车,2891,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/ac9a133ca2c03697d31473184c0839c9~tplv-resize:640:0.png,2023/1/5
+云度,188,纯电,云度Xπ,2256,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8c619ae7221869afb987886f38bd956b~tplv-resize:640:0.png,2023/1/5
+卡威,138,纯电,卡威E10,1973,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002783b87bf3e9~tplv-resize:640:0.png,2023/1/5
+华泰新能源,99,纯电,路盛S5,2231,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef600005e0a5e283abf~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田RiN,2507,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef800002ecfce9cfb07~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田FT-EV,2743,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767600000779c216b697~tplv-resize:640:0.png,2023/1/5
+现代,11,纯电,Blue2,2324,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002a6224fd0463~tplv-resize:640:0.png,2023/1/5
+北汽制造,78,纯电,王牌M7 EV,5887,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/66a1b465e21142cc8669385db06b1074~tplv-resize:640:0.png,2023/1/5
+斯柯达,23,纯电,VISION E,2063,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a2e2757620a~tplv-resize:640:0.png,2023/1/5
+雪铁龙,21,纯电,E-MEHARI,2028,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/5e1940feaccf3c0ffca813e851ee6aa3~tplv-resize:640:0.png,2023/1/5
+雷诺,46,纯电,EZ-GO,2722,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500001204b1cf8b8a~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田Hi-CT,2503,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef600001c9ca51a0dea~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田1X,2497,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000144671c1299bb~tplv-resize:640:0.png,2023/1/5
+华泰新能源,99,纯电,圣达菲2,1813,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000bf9e4db7e4c4~tplv-resize:640:0.png,2023/1/5
+雷诺,46,纯电,Symbioz,1982,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/9abddd842b54a05b37efd43491081fc4~tplv-resize:640:0.png,2023/1/5
+奇点汽车,225,纯电,奇点iM8,2902,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700005022fd820e9a~tplv-resize:640:0.png,2023/1/5
+华泰新能源,99,纯电,圣达菲7 EV,2899,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17674000019f88231b74c~tplv-resize:640:0.png,2023/1/5
+双龙,163,纯电,双龙e-SIV,2729,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef00013ce49054d72a~tplv-resize:640:0.png,2023/1/5
+华泰新能源,99,纯电,圣达菲EV,1835,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000044782c0531ed~tplv-resize:640:0.png,2023/1/5
+丰田,5,纯电,丰田FCV-R,2498,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/8503b79fae616d8cfb9510db2e1bb570~tplv-resize:640:0.png,2023/1/5
+华泰新能源,99,纯电,圣达菲5 EV,2904,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef700006acddc9d63d2~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,好运,6343,全新车系,13.88-14.68万,暂无报价,13.88万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/97b9e3a5a7024624b526b5da66f18040~tplv-resize:640:0.png,2023/1/5
+SRM鑫源,193,纯电,启运,6335,全新车系,13.58万,暂无报价,13.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/0e396272f599407183475e1bcfbbadd3~tplv-resize:640:0.png,2023/1/5
+北汽瑞翔,444,纯电,HOEN O2,6318,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/49551a8244b543f6bcca2a40e4f9cc5c~tplv-resize:640:0.png,2023/1/5
+国金汽车,191,纯电,国金全新微型车,6280,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/42b0c30e65454cb6b1ea5a90523aaa4f~tplv-resize:640:0.png,2023/1/5
+黄海,132,纯电,Smile,6213,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/tos-cn-i-0000c0030/840bd41e1e95404f9c523ba547ddd7f9~tplv-resize:640:0.png,2023/1/5
+SERES赛力斯,231,纯电,赛力斯A5,6210,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/c714118af91148c2bc6398effa24f295~tplv-resize:640:0.png,2023/1/5
+小跑车,534,纯电,小跑车SC-01,6176,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/99c330c59c2742f49f526d2447ea2df6~tplv-resize:640:0.png,2023/1/5
+智行盒子,484,纯电,智行盒子BM-600,5540,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b0fef77517ea829b9ccf7ca758f07091~tplv-resize:640:0.png,2023/1/5
+智点汽车,465,纯电,智点K201,5399,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/729ff75c97d817d6030e01adb04d0d48~tplv-resize:640:0.png,2023/1/5
+智点汽车,465,纯电,智点F101微卡,5398,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b8f36d60dc1c7a9b5c0a4f39aa869735~tplv-resize:640:0.png,2023/1/5
+智点汽车,465,纯电,智点F101微面,5397,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/428974985a99ebf7478b5e52c7d663a1~tplv-resize:640:0.png,2023/1/5
+朋克汽车,420,纯电,朋克啦啦,4945,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/037eba72712598c6a37fa77586b31c1a~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Cybertruck,4306,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/1555c7469b11cb88dd56418108577a89~tplv-resize:640:0.png,2023/1/5
+特斯拉,63,纯电,Roadster,2339,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000dd22b88f8e09~tplv-resize:640:0.png,2023/1/5
+长安深蓝,515,增程,长安深蓝SL03,5306,中型轿车销量NO.13,17.19-69.99万,17.98-23.18万,17.19万,FALSE,暂无报价,3.84,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/d4b926b898314e86887526ebdecd437b~tplv-resize:640:0.png,2023/1/5
+理想汽车,202,增程,理想L8,6095,中大型SUV销量NO.2,35.98-39.98万,暂无报价,35.98万,FALSE,暂无报价,4.03,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/898f22ae7f0b44978e7663c8a9a5cd78~tplv-resize:640:0.png,2023/1/5
+理想汽车,202,增程,理想L9,5227,大型SUV销量NO.1,45.98万,45.00-50.00万,45.98万,FALSE,暂无报价,4.11,http://p1-dcd.byteimg.com/img/motor-img/1ec2ae612e6d51a6f589ccda842cd90d~tplv-resize:640:0.png,2023/1/5
+哪吒汽车,199,增程,哪吒S,5090,,20.28-34.18万,33.80万,20.28万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/6e68d1a231974405a454fb210bed5485~tplv-resize:640:0.png,2023/1/5
+AITO,483,增程,问界M5,5343,中型SUV销量NO.12,25.98-33.18万,25.00-32.00万,25.98万,FALSE,暂无报价,3.94,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/6077f0b6028c4876a38bed6d222c7431~tplv-resize:640:0.png,2023/1/5
+理想汽车,202,增程,理想L7,6173,,33.98-37.98万,35.00万,33.98万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/tos-cn-i-0000c0030/e7f5862db7304cd88ae6b9ed64b50e58~tplv-resize:640:0.png,2023/1/5
+理想汽车,202,增程,理想ONE,3059,中大型SUV销量NO.20,34.98万,暂无报价,34.98万,FALSE,暂无报价,4.05,http://p1-dcd.byteimg.com/img/motor-img/23f1cc67aa1ff84f6fd97bd52a0d1892~tplv-resize:640:0.png,2023/1/5
+AITO,483,增程,问界M7,5820,中大型SUV销量NO.5,31.98-37.98万,暂无报价,31.98万,FALSE,暂无报价,4.02,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/cdcac0e1b33e456890e5bfa6342f7dd7~tplv-resize:640:0.png,2023/1/5
+零跑汽车,207,增程,零跑C11,4731,,18.58-23.98万,暂无报价,18.58万,FALSE,暂无报价,3.83,http://p1-dcd.byteimg.com/img/motor-img/27cf59523211c789cdc05da4019239e4~tplv-resize:640:0.png,2023/1/5
+岚图,395,增程,岚图FREE,4760,新增车型,31.36-41.99万,31.36-36.36万,31.36万,FALSE,暂无报价,4.11,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/c0af4659b60a49348bcf33568c3f5049~tplv-resize:640:0.png,2023/1/5
+天际汽车,250,增程,天际ME5,4960,,13.88-16.99万,15.99万,13.88万,FALSE,暂无报价,3.8,http://p1-dcd.byteimg.com/img/motor-img/04589c1637429c11279347ed0ebb914b~tplv-resize:640:0.png,2023/1/5
+SERES赛力斯,231,增程,赛力斯SF5,2805,,23.68-26.68万,24.90-33.90万,23.68万,FALSE,暂无报价,3.8,http://p1-dcd.byteimg.com/img/motor-img/d3d1e81f816d273258a81a867be42e34~tplv-resize:640:0.png,2023/1/5
+远程汽车,308,增程,RE500增程式旅居车,4873,,59.80万,40.00-80.00万,59.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/27c6d800797d482981443638658404ef~tplv-resize:640:0.png,2023/1/5
+Lorinser,145,增程,Lorinser LX,5018,,49.90-69.90万,暂无报价,49.90万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/0ab4fbed99a45047ef11569679f95caf~tplv-resize:640:0.png,2023/1/5
+LEVC,324,增程,LEVC TX,4779,,33.98-36.98万,暂无报价,33.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/0ab4fbed99a45047ef11569679f95caf~tplv-resize:640:0.png,2023/1/5
+凯迪拉克,30,增程,凯迪拉克ELR,2956,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef300014262948817c9~tplv-resize:640:0.png,2023/1/5
+广汽传祺,40,增程,传祺E-jet,2681,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4697cc5061e9fd607eee15cb1e51912e~tplv-resize:640:0.png,2023/1/5
+LEVC,324,增程,LEVC TX(海外),4055,,暂无报价,暂无报价,92.51万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/844f2203b4e0497f132a2239228234b7~tplv-resize:640:0.png,2023/1/5
+金龙,140,增程,龙耀8,4562,,15.97-26.87万,暂无报价,15.97万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/573090d5ab4d8bf95e95a39ddba94321~tplv-resize:640:0.png,2023/1/5
+Fisker,205,增程,Atlantic,2784,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17675000028828898c9c0~tplv-resize:640:0.png,2023/1/5
+SERES赛力斯,231,增程,SERES iX3,4656,,暂无报价,16.00万,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/9048e207e9b53e6159639ced752b274e~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,宋PLUS DM-i,4865,插电式混动销量NO.1,15.48-21.88万,15.38-17.58万,15.48万,TRUE,15.48-21.88万,3.87,http://p1-dcd.byteimg.com/img/motor-img/a7188d742fdf9515fb0655df78ce20d3~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,汉DM,4228,中大型轿车销量NO.1,21.78-32.18万,23.00万,21.78万,FALSE,暂无报价,4.07,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/f59ec0247e6c457e85e5b0325f935a24~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,唐DM,311,中型SUV销量NO.2,20.98-33.18万,暂无报价,20.98万,FALSE,暂无报价,3.91,http://p9-dcd.byteimg.com/img/motor-img/a1ec091ce98812219689ca6ae401c2bf~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,秦PLUS DM-i,4802,插电式混动销量NO.4,11.38-16.58万,10.78-14.78万,11.38万,TRUE,11.38-16.58万,3.75,http://p3-dcd.byteimg.com/img/motor-img/e7b6b1423eea61437bff9142196585c9~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,护卫舰 07,5847,全新车系,20.28-28.98万,22.00-28.00万,20.28万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/25da945746f842dbac9e8ec9d481fb6e~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,驱逐舰 05,5290,插电式混动销量NO.5,12.18-15.78万,暂无报价,12.18万,TRUE,12.18-15.78万,3.83,http://p1-dcd.byteimg.com/img/motor-img/8fcc072ede0177d43701ab250cb64b7b~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,宋Pro DM-i,3504,,14.08-16.58万,13.58-16.28万,14.08万,TRUE,14.08-16.58万,3.84,http://p1-dcd.byteimg.com/img/motor-img/8dff43d228b48579b76fed21fb937fbb~tplv-resize:640:0.png,2023/1/5
+吉利汽车,73,插电式混合动力,帝豪L 雷神Hi·P,5872,,12.68-16.88万,暂无报价,12.98万,TRUE,12.98-16.88万,3.76,http://p1-dcd.byteimg.com/img/motor-img/92f2c9929275e6d54b541c826a21e51b~tplv-resize:640:0.png,2023/1/5
+腾势,159,插电式混合动力,腾势D9 DM-i,5843,中大型MPV销量NO.4,33.58-44.58万,33.50-44.50万,33.58万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/33c228a4d0101c510250f1095b554e5e~tplv-resize:640:0.png,2023/1/5
+哈弗,17,插电式混合动力,哈弗H6新能源,5503,插电式混动销量NO.6,15.98-17.38万,16.88-17.68万,15.98万,FALSE,暂无报价,3.8,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/8ac797eaf66b40feae8ca7f56cdeaab5~tplv-resize:640:0.png,2023/1/5
+领克,174,插电式混合动力,领克09 PHEV,5283,插电式混动销量NO.14,31.99-37.49万,32.00-37.50万,31.99万,FALSE,暂无报价,4.03,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/32a5cf1242c643abaf048017680e3670~tplv-resize:640:0.png,2023/1/5
+大众,1,插电式混合动力,迈腾GTE,3142,插电式混动销量NO.18,23.79-25.29万,暂无报价,23.79万,FALSE,暂无报价,3.87,http://p1-dcd.byteimg.com/img/motor-img/aa0da3e462123203481abf9ce80822a1~tplv-resize:640:0.png,2023/1/5
+宝马,4,插电式混合动力,宝马5系PHEV,147,中大型轿车销量NO.12,49.99-53.69万,暂无报价,49.99万,FALSE,暂无报价,4.13,http://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/8521fc33fb8d466b877428ce30a763db~tplv-resize:640:0.png,2023/1/5
+长安,35,插电式混合动力,长安UNI-K iDD,5216,插电式混动销量NO.17,18.29-19.89万,17.69-19.29万,18.29万,FALSE,暂无报价,3.87,http://p1-dcd.byteimg.com/img/motor-img/cab380d022a7fd49920f53f21802ebe9~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,宋MAX DM-i,2887,紧凑型MPV销量NO.6,14.78-17.48万,暂无报价,14.78万,TRUE,14.78-17.48万,3.78,http://p1-dcd.byteimg.com/img/motor-img/7ec97e2a0cd2675c197335c8319f94b1~tplv-resize:640:0.png,2023/1/5
+吉利汽车,73,插电式混合动力,星越L 增程电动版,6086,,23.97-25.37万,25.85万,23.97万,TRUE,23.97-25.37万,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/772580b66953499fb0bc1afe4b3ff3fa~tplv-resize:640:0.png,2023/1/5
+奥迪,2,插电式混合动力,奥迪A6L PHEV,1707,,44.70万,暂无报价,50.80万,FALSE,暂无报价,4.15,http://p1-dcd.byteimg.com/img/motor-img/e84a67d39282a0550546632e9e6cefb5~tplv-resize:640:0.png,2023/1/5
+魏牌,66,插电式混合动力,拿铁DHT-PHEV,5335,插电式混动销量NO.10,22.90-26.30万,23.00-25.00万,22.90万,TRUE,22.90-26.30万,3.92,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/9716d2f286874e2d9fd3fae9963353c1~tplv-resize:640:0.png,2023/1/5
+法拉利,44,插电式混合动力,法拉利SF90,3726,,498.80-510.80万,暂无报价,498.80万,FALSE,暂无报价,4.29,http://p3-dcd.byteimg.com/img/motor-img/a0d44e2e6419aef9ea1c5c72e62d8312~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰E级PHEV,2716,插电式混动销量NO.9,44.03-52.23万,暂无报价,52.03万,FALSE,暂无报价,4.04,http://p1-dcd.byteimg.com/img/motor-img/8406a82a50bfc7eee314a8833e42c29c~tplv-resize:640:0.png,2023/1/5
+大众,1,插电式混合动力,帕萨特PHEV,2989,插电式混动销量NO.16,21.32-22.21万,暂无报价,23.32万,FALSE,暂无报价,3.88,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/ab05f2a028f9443c875c8e1277a6f40d~tplv-resize:640:0.png,2023/1/5
+奇瑞,18,插电式混合动力,瑞虎8 PLUS鲲鹏e+,5001,,15.58-17.18万,暂无报价,15.58万,FALSE,暂无报价,3.74,http://p1-dcd.byteimg.com/img/motor-img/c7794f2136b4b93918827706d3f99e24~tplv-resize:640:0.png,2023/1/5
+长安欧尚,119,插电式混合动力,长安欧尚Z6 iDD,5857,插电式混动销量NO.13,15.58-17.58万,15.58-17.58万,15.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/b92b0219c2e149bd9fe79f92ed3d3a55~tplv-resize:640:0.png,2023/1/5
+大众,1,插电式混合动力,途观L PHEV,3001,插电式混动销量NO.20,24.01-25.10万,暂无报价,26.11万,FALSE,暂无报价,3.89,http://p1-dcd.byteimg.com/img/motor-img/78839f72969927901241f358c5115d2c~tplv-resize:640:0.png,2023/1/5
+保时捷,20,插电式混合动力,Panamera E-Hybrid,153,,119.30-250.10万,暂无报价,119.30万,FALSE,暂无报价,4.32,http://p9-dcd.byteimg.com/img/motor-img/a762524807a7d459ffb64eb3e35b3d93~tplv-resize:640:0.png,2023/1/5
+领克,174,插电式混合动力,领克06 PHEV,4340,,15.78-17.28万,暂无报价,15.78万,TRUE,15.78-17.28万,3.77,http://p9-dcd.byteimg.com/img/tos-cn-i-0000c0030/f014d247441c4bf2b501548c2895fcb0~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,插电式混合动力,沃尔沃S90 RECHARGE,2937,中大型轿车销量NO.17,49.99-61.39万,暂无报价,49.99万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/30c75f1e8d46ba045e0078395194ddb8~tplv-resize:640:0.png,2023/1/5
+领克,174,插电式混合动力,领克01 PHEV,2883,,19.97-22.78万,暂无报价,19.97万,TRUE,19.97-22.67万,3.83,http://p1-dcd.byteimg.com/img/motor-img/1b7a153b55bfaf41e0a0cf1f0e7b9995~tplv-resize:640:0.png,2023/1/5
+本田,9,插电式混合动力,本田CR-V PHEV,4730,插电式混动销量NO.19,20.38-22.98万,暂无报价,27.38万,TRUE,27.38-29.98万,3.84,http://p3-dcd.byteimg.com/img/motor-img/985cc38543d7f8e9dfb1f2a6acb3ff6e~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰C级PHEV,213,,35.73万,暂无报价,40.73万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b811b4781dab7c3d0e8d7cdf88411fde~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,插电式混合动力,沃尔沃S60 RECHARGE,1280,,39.99-46.19万,39.99-46.50万,39.99万,FALSE,暂无报价,3.99,http://p1-dcd.byteimg.com/img/motor-img/0e1a0647fc7451ffefef866f0bf05386~tplv-resize:640:0.png,2023/1/5
+长安,35,插电式混合动力,长安UNI-V iDD,5923,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/ccfd97f89ef4f5a0218d8340c8614cff~tplv-resize:640:0.png,2023/1/5
+Jeep,14,插电式混合动力,牧马人4xe,4365,,54.49-62.49万,暂无报价,54.49万,FALSE,暂无报价,3.84,http://p1-dcd.byteimg.com/img/motor-img/9e750f7f7270b56b32f0cab9b9f9a5e5~tplv-resize:640:0.png,2023/1/5
+路虎,19,插电式混合动力,揽胜极光PHEV,5314,,41.58万,暂无报价,41.58万,FALSE,暂无报价,3.98,http://p1-dcd.byteimg.com/img/motor-img/803335414be32a703cc4eea5e17f7fad~tplv-resize:640:0.png,2023/1/5
+捷途,209,插电式混合动力,捷途大圣i-DM,5907,,14.99-16.99万,暂无报价,14.99万,TRUE,14.99-16.99万,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/57ab6430dbd7403f93362c2141834a2a~tplv-resize:640:0.png,2023/1/5
+丰田,5,插电式混合动力,威兰达高性能版,4813,,24.88-28.98万,23.88万,25.88万,TRUE,25.88-29.98万,3.86,http://p3-dcd.byteimg.com/img/motor-img/f7b9bce8c2458ac99da62cd4338602a0~tplv-resize:640:0.png,2023/1/5
+丰田,5,插电式混合动力,卡罗拉双擎E+,2881,,20.78-23.08万,暂无报价,20.78万,FALSE,暂无报价,3.54,http://p1-dcd.byteimg.com/img/motor-img/5d24ebd28604b5143898bbf4ae6f8dae~tplv-resize:640:0.png,2023/1/5
+别克,12,插电式混合动力,微蓝6 PHEV,2823,,16.16-18.66万,暂无报价,16.16万,TRUE,15.68-18.18万,3.66,http://p1-dcd.byteimg.com/img/motor-img/0306cdfd01457735ee53c1cb940c5aa9~tplv-resize:640:0.png,2023/1/5
+本田,9,插电式混合动力,皓影 PHEV,4839,,27.38-29.98万,暂无报价,27.38万,FALSE,暂无报价,3.82,http://p1-dcd.byteimg.com/img/motor-img/7bd695b9586ec836968b832d3b2065a0~tplv-resize:640:0.png,2023/1/5
+宝马,4,插电式混合动力,宝马XM,4772,全新车系,230.00万,236.00万,230.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/f97e33b83aa24327ac2db61541a16012~tplv-resize:640:0.png,2023/1/5
+大众,1,插电式混合动力,探岳GTE,3131,,24.29-25.29万,暂无报价,24.29万,FALSE,暂无报价,3.81,http://p1-dcd.byteimg.com/img/motor-img/aac0f155b2015c4933cda7ea9afec655~tplv-resize:640:0.png,2023/1/5
+吉利汽车,73,插电式混合动力,缤越PHEV,3706,,11.98-13.58万,暂无报价,11.98万,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/985525a3c5e4e0650af26a045971bc2f~tplv-resize:640:0.png,2023/1/5
+名爵,34,插电式混合动力,名爵6 PHEV,1795,,14.28-19.98万,暂无报价,14.28万,FALSE,暂无报价,3.71,http://p1-dcd.byteimg.com/img/motor-img/16e6d5614f7333918afa4d91a79e7466~tplv-resize:640:0.png,2023/1/5
+魏牌,66,插电式混合动力,摩卡DHT-PHEV,4867,,29.50-31.50万,暂无报价,29.50万,FALSE,暂无报价,3.96,http://p1-dcd.byteimg.com/img/motor-img/ff61973278bf047d9efb54853cb99676~tplv-resize:640:0.png,2023/1/5
+保时捷,20,插电式混合动力,Cayenne E-Hybrid,156,,87.80-99.80万,暂无报价,87.80万,FALSE,暂无报价,4.26,http://p1-dcd.byteimg.com/img/motor-img/5669c130285bcbb20f11716bc2c923f7~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,插电式混合动力,沃尔沃XC60 RECHARGE,1792,,52.79-60.39万,暂无报价,52.79万,FALSE,暂无报价,4.01,http://p3-dcd.byteimg.com/img/motor-img/fc3ab417cc4308639925ee54f86c7419~tplv-resize:640:0.png,2023/1/5
+法拉利,44,插电式混合动力,法拉利296,5228,,298.80-348.80万,暂无报价,298.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/b88d2f905fae0c87f6c8d871c84505ac~tplv-resize:640:0.png,2023/1/5
+魏牌,66,插电式混合动力,蓝山DHT-PHEV,6206,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/b3d43718acf4474aaa9876770457574d~tplv-resize:640:0.png,2023/1/5
+迈凯伦,86,插电式混合动力,迈凯伦Artura,4831,,238.00万,暂无报价,238.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/e1acc27d3434f67503bde03ba01408fa~tplv-resize:640:0.png,2023/1/5
+宾利,47,插电式混合动力,飞驰PHEV,4724,新增车型,248.00-327.20万,暂无报价,248.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/fe25196532a265d345dc7053b12a1b86~tplv-resize:640:0.png,2023/1/5
+丰田,5,插电式混合动力,RAV4荣放双擎E+,4329,,24.88-29.68万,暂无报价,24.88万,TRUE,24.88-29.68万,3.87,http://p1-dcd.byteimg.com/img/motor-img/4fcf011be1ed190903989d9a4c87225d~tplv-resize:640:0.png,2023/1/5
+岚图,395,插电式混合动力,梦想家 PHEV,5924,,36.99-63.99万,暂无报价,36.99万,FALSE,暂无报价,4.1,http://p1-dcd.byteimg.com/img/motor-img/523d07a28dc794d64e0a901a3e9c6a1f~tplv-resize:640:0.png,2023/1/5
+荣威,36,插电式混合动力,荣威eRX5,1183,插电式混动销量NO.8,15.28-16.59万,暂无报价,15.28万,TRUE,15.39-16.59万,3.81,http://p1-dcd.byteimg.com/img/motor-img/a44c93c6bed5467f15d8e06eb5201cd2~tplv-resize:640:0.png,2023/1/5
+吉利汽车,73,插电式混合动力,星越PHEV,3595,,15.58-19.68万,暂无报价,15.58万,TRUE,15.58-19.68万,3.72,http://p3-dcd.byteimg.com/img/motor-img/af2fab6466bd9e4bd2d83cadcfa87984~tplv-resize:640:0.png,2023/1/5
+大众,1,插电式混合动力,途锐PHEV,3143,,67.98万,暂无报价,67.98万,FALSE,暂无报价,4.12,http://p1-dcd.byteimg.com/img/motor-img/60b3d0048355827b0da130cb24b94280~tplv-resize:640:0.png,2023/1/5
+沃尔沃,24,插电式混合动力,沃尔沃XC90 RECHARGE,1276,,89.49万,暂无报价,89.49万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/20a9b67f4fe649eb8c785e27f448a239~tplv-resize:640:0.png,2023/1/5
+科尼赛克,83,插电式混合动力,Gemera,4456,,1980.00万,暂无报价,1980.00万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/ce6c08c11c69eb40a1286d005d7051a2~tplv-resize:640:0.png,2023/1/5
+路虎,19,插电式混合动力,卫士PHEV,4719,,81.80万,暂无报价,81.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/833c2619fed64a3291be80b420ceb540~tplv-resize:640:0.png,2023/1/5
+路虎,19,插电式混合动力,揽胜运动版PHEV,1802,,86.48-135.80万,暂无报价,86.48万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/c0474f0781a141dda778f4947792eb26~tplv-resize:640:0.png,2023/1/5
+丰田,5,插电式混合动力,雷凌双擎E+,2882,,18.18-19.68万,暂无报价,20.38万,FALSE,暂无报价,3.57,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef000011149f032b839~tplv-resize:640:0.png,2023/1/5
+广汽传祺,40,插电式混合动力,传祺GS4 PHEV,1584,,16.38-19.38万,暂无报价,16.38万,TRUE,16.38-17.88万,0,http://p1-dcd.byteimg.com/img/motor-img/f270df8b4b5ecd219960b8ee76fb935a~tplv-resize:640:0.png,2023/1/5
+魏牌,66,插电式混合动力,玛奇朵DHT-PHEV,5148,,17.88-18.98万,暂无报价,17.88万,TRUE,17.88-18.98万,3.83,http://p1-dcd.byteimg.com/img/motor-img/15baa8e4c215a5b1e4317e74101087b2~tplv-resize:640:0.png,2023/1/5
+路虎,19,插电式混合动力,揽胜PHEV,1801,,219.80万,暂无报价,219.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/83b81b9042b5d38e7fc170be296d93f4~tplv-resize:640:0.png,2023/1/5
+林肯,62,插电式混合动力,冒险家PHEV,3983,,30.98-34.58万,暂无报价,30.98万,FALSE,暂无报价,3.9,http://p3-dcd.byteimg.com/img/motor-img/d00c235ab7cd0b3c5c6b0f0f89c4b00f~tplv-resize:640:0.png,2023/1/5
+吉利汽车,73,插电式混合动力,嘉际PHEV,3121,,15.18-17.48万,暂无报价,15.18万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/ed2f8ad01d21e9717a6bc3b0d53fada6~tplv-resize:640:0.png,2023/1/5
+路虎,19,插电式混合动力,发现运动版PHEV,4640,,40.98万,暂无报价,40.98万,FALSE,暂无报价,3.96,http://p1-dcd.byteimg.com/img/motor-img/053677bde5e7d48f037d6a063407538c~tplv-resize:640:0.png,2023/1/5
+星途,251,插电式混合动力,星途追风ET-i,5567,,15.28-16.28万,15.00-16.00万,15.28万,TRUE,15.28-16.28万,3.69,http://p1-dcd.byteimg.com/img/motor-img/d29253876c21e1978ec0ef4fe232a912~tplv-resize:640:0.png,2023/1/5
+奥迪,2,插电式混合动力,奥迪A8 PHEV,3169,,111.78万,暂无报价,111.78万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/28eed806d0652bc209a64857e1c07ca3~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰GLE PHEV,229,,81.45-81.69万,暂无报价,81.45万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/910028fb5ac01670332457a76e8c41d7~tplv-resize:640:0.png,2023/1/5
+领克,174,插电式混合动力,领克05 PHEV,4156,,23.17万,23.00万,23.17万,FALSE,暂无报价,3.91,http://p1-dcd.byteimg.com/img/motor-img/307ff08000674f18865a9a638d0203a2~tplv-resize:640:0.png,2023/1/5
+Polestar极星,196,插电式混合动力,Polestar 1,1778,,145.00万,暂无报价,145.00万,FALSE,暂无报价,4.15,http://p1-dcd.byteimg.com/img/motor-img/24875c76946683afcfa4b5d82f9802c2~tplv-resize:640:0.png,2023/1/5
+荣威,36,插电式混合动力,荣威ei6 MAX,4601,插电式混动销量NO.12,13.38-18.88万,暂无报价,13.68万,FALSE,暂无报价,3.59,http://p1-dcd.byteimg.com/img/motor-img/266e7ca38ec0c789653c38387dbaa4d6~tplv-resize:640:0.png,2023/1/5
+保时捷,20,插电式混合动力,Cayenne Coupé E-Hybrid,5173,,93.80-102.80万,暂无报价,93.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/fdf97f0951f97b2114e3b40acb7abd15~tplv-resize:640:0.png,2023/1/5
+宾利,47,插电式混合动力,添越PHEV,2726,,238.50万,暂无报价,238.50万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/a1f6973e9fcca5ada5605be9dd262aba~tplv-resize:640:0.png,2023/1/5
+哈弗,17,插电式混合动力,哈弗H-DOG PHEV,6124,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/c298e0a0843f08fb842df53c518f3f36~tplv-resize:640:0.png,2023/1/5
+标致,61,插电式混合动力,标致508L PHEV,3473,,21.57-22.77万,暂无报价,21.57万,TRUE,21.57-22.77万,3.9,http://p1-dcd.byteimg.com/img/motor-img/627505bc368270b79d2aab68cbfa91da~tplv-resize:640:0.png,2023/1/5
+腾势,159,插电式混合动力,腾势X PHEV,3873,,28.98-31.98万,暂无报价,28.98万,TRUE,28.98-31.98万,3.93,http://p1-dcd.byteimg.com/img/motor-img/3446772365f667bfeac113d3b0d641c5~tplv-resize:640:0.png,2023/1/5
+福特,7,插电式混合动力,锐际PHEV,4549,,21.00万,暂无报价,21.00万,FALSE,暂无报价,3.87,http://p1-dcd.byteimg.com/img/motor-img/9fbf154e6c81aad3e71aee0f2cbfa64a~tplv-resize:640:0.png,2023/1/5
+DS,55,插电式混合动力,DS 9 PHEV,4157,,33.49-40.49万,暂无报价,33.49万,FALSE,暂无报价,3.93,http://p1-dcd.byteimg.com/img/motor-img/6505fe35f2a3a3ffa5a1ffbb7bd5a617~tplv-resize:640:0.png,2023/1/5
+雪铁龙,21,插电式混合动力,天逸 C5 AIRCROSS PHEV,4290,,23.17万,23.17万,23.17万,FALSE,暂无报价,3.74,http://p1-dcd.byteimg.com/img/motor-img/edc611215e53aaba48a03a0700baca7d~tplv-resize:640:0.png,2023/1/5
+雷克萨斯,22,插电式混合动力,雷克萨斯NX PHEV,5215,,42.88-50.98万,暂无报价,42.88万,FALSE,暂无报价,4.01,http://p3-dcd.byteimg.com/img/motor-img/5175a810182c2b1f64de34214411f9f0~tplv-resize:640:0.png,2023/1/5
+创维汽车,368,插电式混合动力,创维HT-i,5871,,14.68-24.28万,14.68-24.28万,14.68万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/7f6a5a194cb36018cb6e25a5f1a0b9e9~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰GLE轿跑 PHEV,5166,,84.35-84.60万,暂无报价,84.35万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-dcdx/ad642b0442c74b74b9039bdc9c372824~tplv-resize:640:0.png,2023/1/5
+长安,35,插电式混合动力,长安CS75 PLUS PHEV,6273,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/ed6401d5e2c54f4bba3541ef41edc9c1~tplv-resize:640:0.png,2023/1/5
+名爵,34,插电式混合动力,MG领航PHEV,4808,,16.38-18.38万,17.00万,16.38万,FALSE,暂无报价,3.75,http://p1-dcd.byteimg.com/img/motor-img/5f6ff0d40b5bf3af63b8ee08289e1cb4~tplv-resize:640:0.png,2023/1/5
+荣威,36,插电式混合动力,荣威RX5 eMAX,4075,,17.18-18.98万,16.98-18.98万,17.18万,TRUE,17.18-18.98万,0,http://p1-dcd.byteimg.com/img/motor-img/4dd54b81e0b8d683dd76a79dedebafed~tplv-resize:640:0.png,2023/1/5
+奇瑞,18,插电式混合动力,瑞虎7 PLUS 新能源,6076,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-0000c0030/4638f830bea24f4a92a6271012f7569a~tplv-resize:640:0.png,2023/1/5
+北京汽车,68,插电式混合动力,北京X7 PHEV,4589,,18.49-21.69万,暂无报价,18.49万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/3973cc2669a77069d8fe16a19b54ae6c~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,插电式混合动力,上汽大通MAXUS EUNIQ 5 PLUG IN,4515,紧凑型MPV销量NO.13,16.58-19.58万,暂无报价,16.58万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/d768dc3db3b15afd3adb2a32eae0a90b~tplv-resize:640:0.png,2023/1/5
+东风风光,95,插电式混合动力,风光蓝电E5,6204,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a85640b7405f4d3889bc55d63edbd0c8~tplv-resize:640:0.png,2023/1/5
+标致,61,插电式混合动力,标致4008 PHEV,4117,,24.97-25.97万,暂无报价,24.97万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/974eb0d26bd1470199a4be9d8b7bf335~tplv-resize:640:0.png,2023/1/5
+哈弗,17,插电式混合动力,哈弗神兽PHEV,5904,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/70b8d6f3b053465d8fdad671f5a98b5a~tplv-resize:640:0.png,2023/1/5
+海马,53,插电式混合动力,海马6P,4403,,16.28-17.58万,暂无报价,16.28万,FALSE,暂无报价,3.32,http://p1-dcd.byteimg.com/img/motor-img/7533dd95f002486640093f41833cf585~tplv-resize:640:0.png,2023/1/5
+松散机车,408,插电式混合动力,SS DOLPHIN,4753,,59.80万,暂无报价,59.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4bf176e0de27e9f7ffe8a089622d328f~tplv-resize:640:0.png,2023/1/5
+比亚迪,16,插电式混合动力,驱逐舰 07,6261,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/25ec8796d0a44ab285a98ad6a0ec9f81~tplv-resize:640:0.png,2023/1/5
+松散机车,408,插电式混合动力,SS SUMMER,4754,,28.80万,暂无报价,28.80万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/81c1aab2e418bddb260c144e933e328d~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰E级PHEV(进口),4097,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/43b3247244c19330551f83e29156829d~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,AMG GT PHEV,5009,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/51fb384af47dd12bead92e0612f6680e~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,插电式混合动力,上汽大通MAXUS MIFA 6 PLUG IN,6002,,18.98万,暂无报价,18.98万,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/467dcf446b88415aba07ca739452be78~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,插电式混合动力,上汽大通MAXUS EUNIQ 6 PLUG IN,4289,,15.98-19.98万,暂无报价,15.98万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/ec01ff5c69ea1471fede92ebb7e40e15~tplv-resize:640:0.png,2023/1/5
+北京,52,插电式混合动力,北京BJ80 PHEV,2862,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/motor-img/2e188f9f509a99dc4d80a46904895ac6~tplv-resize:640:0.png,2023/1/5
+三菱,26,插电式混合动力,欧蓝德PHEV(进口),2718,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef30001412d71f2737a~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰C级AMG PHEV,5969,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/de6f860e401d4d18a2f8f5fd9a85c43e~tplv-resize:640:0.png,2023/1/5
+上汽大通MAXUS,108,插电式混合动力,上汽大通MAXUS MIFA 5 PLUG IN,6000,,17.38-20.38万,暂无报价,17.38万,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/4f42d5ff30f94ef4c7da101045312782~tplv-resize:640:0.png,2023/1/5
+宝马,4,插电式混合动力,宝马3系PHEV(海外),3146,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000695c50935120~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰C级PHEV(进口),2714,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef80000147caeb4f11c~tplv-resize:640:0.png,2023/1/5
+红旗,59,插电式混合动力,红旗H7 PHEV,2908,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/88830000b56858582f77~tplv-resize:640:0.png,2023/1/5
+捷豹,31,插电式混合动力,捷豹C-X16,2427,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef7000054199b3b1722~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰GLA PHEV,5318,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/def4526f0c0b607c5f86dcd402d74d58~tplv-resize:640:0.png,2023/1/5
+大众,1,插电式混合动力,辉昂PHEV,2160,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000004b34fa5bec3~tplv-resize:640:0.png,2023/1/5
+宝马,4,插电式混合动力,宝马X7 PHEV,1734,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/651b6b31e4a02ffc3316a02c0300e3a2~tplv-resize:640:0.png,2023/1/5
+科尼赛克,83,插电式混合动力,Regera,2135,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500001601ac1f0fdf~tplv-resize:640:0.png,2023/1/5
+三菱,26,插电式混合动力,三菱GC-PHEV,2626,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006aca26f2c36d~tplv-resize:640:0.png,2023/1/5
+东风风神,37,插电式混合动力,东风风神AX7 PHEV,1779,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000154a6074153e1~tplv-resize:640:0.png,2023/1/5
+宝马,4,插电式混合动力,宝马2系旅行车PHEV(海外),2723,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000e569ba4b40b1~tplv-resize:640:0.png,2023/1/5
+MINI,65,插电式混合动力,MINI COUNTRYMAN ELECTRIC,2795,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/06e263bcccc04f99cc0d08da0433daac~tplv-resize:640:0.png,2023/1/5
+奔驰,3,插电式混合动力,奔驰GLC AMG PHEV,6320,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/632d9fc634e04bec8ecf1262ee26d2c0~tplv-resize:640:0.png,2023/1/5
+AC Schnitzer,113,插电式混合动力,AC Schnitzer i8,1991,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/beef000096d565eff63a~tplv-resize:640:0.png,2023/1/5
+雷克萨斯,22,插电式混合动力,雷克萨斯LF-1 Limitless,1981,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef700006a9f1429976b~tplv-resize:640:0.png,2023/1/5
+Jeep,14,插电式混合动力,云图,2255,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef200013d3b304f120f~tplv-resize:640:0.png,2023/1/5
+现代,11,插电式混合动力,IONIQ,2472,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000e68c3a14e812~tplv-resize:640:0.png,2023/1/5
+福特,7,插电式混合动力,EVOS(海外),2366,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/1767500004e3d7466fd72~tplv-resize:640:0.png,2023/1/5
+起亚,13,插电式混合动力,极睿PHEV,4328,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/motor-img/e456dea5047a3df90baa5ae70c687ec8~tplv-resize:640:0.png,2023/1/5
+广汽传祺,40,插电式混合动力,EnSpirit,2029,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000e31517bf3da9~tplv-resize:640:0.png,2023/1/5
+三菱,26,插电式混合动力,三菱GT-PHEV,2218,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006a818dc3c06d~tplv-resize:640:0.png,2023/1/5
+斯柯达,23,插电式混合动力,Vision S,2070,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef70000501b44472e1c~tplv-resize:640:0.png,2023/1/5
+观致,58,插电式混合动力,观致2,2204,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/17674000032988556ec31~tplv-resize:640:0.png,2023/1/5
+本田,9,插电式混合动力,本田AC-X,2804,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/bef40000ff468b91cdca~tplv-resize:640:0.png,2023/1/5
+之诺,170,插电式混合动力,Next,2128,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p3-dcd.byteimg.com/img/mosaic-legacy/1767500003265d89f2d4f~tplv-resize:640:0.png,2023/1/5
+三菱,26,插电式混合动力,三菱XR-PHEV,2633,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p9-dcd.byteimg.com/img/mosaic-legacy/bef000013ffa6df79c32~tplv-resize:640:0.png,2023/1/5
+丰田,5,插电式混合动力,丰田NS4,2505,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/mosaic-legacy/bef70000010756963ec5~tplv-resize:640:0.png,2023/1/5
+雪铁龙,21,插电式混合动力,CXPERIENCE,2024,,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/bc5f89b36463a24155497514a3c2fdab~tplv-resize:640:0.png,2023/1/5
+北汽瑞翔,444,插电式混合动力,北汽瑞翔X5 PHEV,6009,即将上市,暂无报价,暂无报价,暂无报价,FALSE,暂无报价,0,http://p1-dcd.byteimg.com/img/motor-img/3dfe456f3190029d5a46139a6fb7cca3~tplv-resize:640:0.png,2023/1/5
